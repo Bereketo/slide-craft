@@ -1,0 +1,1533 @@
+{
+  "metadata": {
+    "element_number": 39,
+    "category": "timeline",
+    "description": "Timeline or process layout",
+    "extracted_text": "Timeline Presentation Title Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh \u000beuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Header\nLorem ipsum "
+  },
+  "slide": {
+    "title": "PwC Content Element 39",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Timeline",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 150,
+          "y": 204,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 150,
+          "y": 204,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 553,
+          "y": 204,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 553,
+          "y": 204,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 957,
+          "y": 204,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 957,
+          "y": 204,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 107,
+          "y": 439,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "right"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 107,
+          "y": 439,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "right"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 509,
+          "y": 439,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "right"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 509,
+          "y": 439,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "right"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 913,
+          "y": 439,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "right"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 913,
+          "y": 439,
+          "w": 219,
+          "h": 143,
+          "unit": "px"
+        },
+        "style": {
+          "align": "right"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_39_placeholder.png",
+        "alt": "Element image 39",
+        "box": {
+          "x": 1154,
+          "y": 491,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_39_placeholder.png",
+        "alt": "Element image 39",
+        "box": {
+          "x": 428,
+          "y": 199,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_39_placeholder.png",
+        "alt": "Element image 39",
+        "box": {
+          "x": 345,
+          "y": 497,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_39_placeholder.png",
+        "alt": "Element image 39",
+        "box": {
+          "x": 837,
+          "y": 202,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_39_placeholder.png",
+        "alt": "Element image 39",
+        "box": {
+          "x": 36,
+          "y": 205,
+          "w": 96,
+          "h": 94,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_39_placeholder.png",
+        "alt": "Element image 39",
+        "box": {
+          "x": 751,
+          "y": 503,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      }
+    ]
+  }
+}

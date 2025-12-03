@@ -1,0 +1,65 @@
+{
+  "total_elements": 96,
+  "layout_types": {
+    "title_slides": {
+      "description": "Title and cover slides for presentations",
+      "count": 25,
+      "index_file": "title_slides/index.json"
+    },
+    "section_headers": {
+      "description": "Section divider and header slides",
+      "count": 2,
+      "index_file": "section_headers/index.json"
+    },
+    "topic_separators": {
+      "description": "Topic separator slides to divide between major topics",
+      "count": 1,
+      "index_file": "topic_separators/index.json"
+    },
+    "content_standard": {
+      "description": "Standard content layouts with text",
+      "count": 15,
+      "index_file": "content_standard/index.json"
+    },
+    "content_two_column": {
+      "description": "Two-column content layouts",
+      "count": 4,
+      "index_file": "content_two_column/index.json"
+    },
+    "content_image": {
+      "description": "Image-focused content layouts",
+      "count": 3,
+      "index_file": "content_image/index.json"
+    },
+    "timelines": {
+      "description": "Timeline and process flow layouts",
+      "count": 14,
+      "index_file": "timelines/index.json"
+    },
+    "tables": {
+      "description": "Table and data grid layouts",
+      "count": 14,
+      "index_file": "tables/index.json"
+    },
+    "bullet_lists": {
+      "description": "Bullet point and list layouts",
+      "count": 1,
+      "index_file": "bullet_lists/index.json"
+    },
+    "title_content": {
+      "description": "Title with content layouts",
+      "count": 1,
+      "index_file": "title_content/index.json"
+    },
+    "complex": {
+      "description": "Complex multi-element layouts",
+      "count": 13,
+      "index_file": "complex/index.json"
+    },
+    "blank": {
+      "description": "Blank or minimal layouts",
+      "count": 3,
+      "index_file": "blank/index.json"
+    }
+  }
+}

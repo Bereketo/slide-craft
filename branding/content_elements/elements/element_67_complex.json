@@ -1,0 +1,846 @@
+{
+  "metadata": {
+    "element_number": 67,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Pictogram library  Presentation Title Community Compass Competition Computer\nchip Consumer\nmarkets Cybersecurity Cycle Dashboard Data analysis Database Database— cloud Devices Dining Collaboration CO2"
+  },
+  "slide": {
+    "title": "PwC Content Element 67",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Pictogram library ",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Community",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia",
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 577,
+          "y": 247,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Compass",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 754,
+          "y": 247,
+          "w": 99,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Competition",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 932,
+          "y": 247,
+          "w": 99,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Computer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1109,
+          "y": 247,
+          "w": 101,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "chip",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1109,
+          "y": 247,
+          "w": 101,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Consumer",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 416,
+          "w": 98,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "markets",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 416,
+          "w": 98,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Cybersecurity",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 759,
+          "y": 416,
+          "w": 99,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Cycle",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 938,
+          "y": 416,
+          "w": 92,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Dashboard",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1119,
+          "y": 419,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Data analysis",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 47,
+          "y": 590,
+          "w": 104,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Database",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 232,
+          "y": 590,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Database— cloud",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 408,
+          "y": 590,
+          "w": 93,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Devices",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 764,
+          "y": 590,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Dining",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 920,
+          "y": 590,
+          "w": 126,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 575,
+          "y": 138,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 757,
+          "y": 138,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 936,
+          "y": 138,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 1114,
+          "y": 138,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 44,
+          "y": 308,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 761,
+          "y": 308,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 939,
+          "y": 308,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 1115,
+          "y": 310,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 50,
+          "y": 476,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 228,
+          "y": 476,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 406,
+          "y": 478,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 765,
+          "y": 478,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 940,
+          "y": 485,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Collaboration",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 396,
+          "y": 247,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 397,
+          "y": 138,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "CO2",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 40,
+          "y": 247,
+          "w": 98,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Cogs",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 220,
+          "y": 247,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 42,
+          "y": 146,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 220,
+          "y": 146,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Continuing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "education*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 226,
+          "y": 416,
+          "w": 98,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 225,
+          "y": 308,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Credit cards",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 401,
+          "y": 416,
+          "w": 96,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 403,
+          "y": 308,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Customer journey*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 577,
+          "y": 416,
+          "w": 96,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 578,
+          "y": 314,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Defense",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 580,
+          "y": 590,
+          "w": 93,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 579,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Disability",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1118,
+          "y": 590,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_67_placeholder.png",
+        "alt": "Element image 67",
+        "box": {
+          "x": 1113,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "*New",
+            "bold": false,
+            "font_size": 11
+          }
+        ],
+        "box": {
+          "x": 582,
+          "y": 682,
+          "w": 117,
+          "h": 24,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      }
+    ]
+  }
+}

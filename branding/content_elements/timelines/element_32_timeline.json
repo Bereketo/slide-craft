@@ -1,0 +1,450 @@
+{
+  "metadata": {
+    "element_number": 32,
+    "category": "timeline",
+    "description": "Timeline or process layout",
+    "extracted_text": "Process Presentation Title Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh"
+  },
+  "slide": {
+    "title": "PwC Content Element 32",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Process",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "01",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 613,
+          "y": 214,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "02",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 743,
+          "y": 271,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "06",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 485,
+          "y": 271,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "04",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 613,
+          "y": 484,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "03",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 743,
+          "y": 421,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "05",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 485,
+          "y": 421,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Our goal ",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "lorem ipsum",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 547,
+          "y": 294,
+          "w": 185,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      }
+    ]
+  }
+}

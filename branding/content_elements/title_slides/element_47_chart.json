@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "element_number": 47,
+    "category": "chart",
+    "description": "Chart or graph layout",
+    "extracted_text": "Three images three content Vertical Bar Chart\nSecond level text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam volut"
+  },
+  "slide": {
+    "title": "PwC Content Element 47",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Three images three content",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 95,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Vertical Bar Chart",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 420,
+          "w": 344,
+          "h": 202,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Second level text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam volutpat.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 420,
+          "w": 344,
+          "h": 202,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Line Chart",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 445,
+          "y": 420,
+          "w": 344,
+          "h": 202,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Second level text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam volutpat.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 445,
+          "y": 420,
+          "w": 344,
+          "h": 202,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Stacked Horizontal Bar charts",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 848,
+          "y": 420,
+          "w": 344,
+          "h": 202,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Second level text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam volutpat.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 848,
+          "y": 420,
+          "w": 344,
+          "h": 202,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

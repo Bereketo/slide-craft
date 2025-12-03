@@ -1,0 +1,97 @@
+{
+  "layout_type": "content_standard",
+  "description": "Standard content layouts with text",
+  "total_elements": 15,
+  "elements": [
+    {
+      "id": 3,
+      "file": "element_03_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 4,
+      "file": "element_04_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 5,
+      "file": "element_05_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 6,
+      "file": "element_06_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 7,
+      "file": "element_07_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 8,
+      "file": "element_08_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 13,
+      "file": "element_13_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 14,
+      "file": "element_14_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 21,
+      "file": "element_21_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 58,
+      "file": "element_58_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 59,
+      "file": "element_59_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 73,
+      "file": "element_73_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 74,
+      "file": "element_74_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 81,
+      "file": "element_81_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 95,
+      "file": "element_95_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    }
+  ]
+}

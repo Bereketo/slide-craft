@@ -1,0 +1,85 @@
+{
+  "layout_type": "complex",
+  "description": "Complex multi-element layouts",
+  "total_elements": 13,
+  "elements": [
+    {
+      "id": 15,
+      "file": "element_15_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 16,
+      "file": "element_16_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 22,
+      "file": "element_22_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 35,
+      "file": "element_35_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 36,
+      "file": "element_36_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 61,
+      "file": "element_61_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 64,
+      "file": "element_64_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 65,
+      "file": "element_65_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 66,
+      "file": "element_66_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 67,
+      "file": "element_67_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 68,
+      "file": "element_68_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 71,
+      "file": "element_71_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 72,
+      "file": "element_72_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    }
+  ]
+}

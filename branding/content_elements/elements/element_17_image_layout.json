@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "element_number": 17,
+    "category": "image_layout",
+    "description": "Image-focused layout",
+    "extracted_text": "Four team images Firstname Lastname\nTitle\n1.111.1111.1111\nemail@pwc.com Firstname Lastname\nTitle\n1.111.1111.1111\nemail@pwc.com Firstname Lastname\nTitle\n1.111.1111.1111\nemail@pwc.com Firstname Lastname"
+  },
+  "slide": {
+    "title": "PwC Content Element 17",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Four team images",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname Lastname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "1.111.1111.1111",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "email@pwc.com",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname Lastname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 345,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 345,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "1.111.1111.1111",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 345,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "email@pwc.com",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 345,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname Lastname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "1.111.1111.1111",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "email@pwc.com",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname Lastname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 950,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 950,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "1.111.1111.1111",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 950,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "email@pwc.com",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 950,
+          "y": 473,
+          "w": 288,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

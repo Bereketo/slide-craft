@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "element_number": 24,
+    "category": "timeline",
+    "description": "Timeline or process layout",
+    "extracted_text": "Process Presentation Title Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh \u000beuismod tincidunt ut laoreet dolore Header\nLorem ipsum dolor sit amet, consectetuer a"
+  },
+  "slide": {
+    "title": "PwC Content Element 24",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Process",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 629,
+          "y": 208,
+          "w": 260,
+          "h": 123,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod tincidunt ut laoreet dolore",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 629,
+          "y": 208,
+          "w": 260,
+          "h": 123,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 304,
+          "y": 208,
+          "w": 260,
+          "h": 123,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod tincidunt ut laoreet dolore",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 304,
+          "y": 208,
+          "w": 260,
+          "h": 123,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

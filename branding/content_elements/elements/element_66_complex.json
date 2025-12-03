@@ -1,0 +1,889 @@
+{
+  "metadata": {
+    "element_number": 66,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Pictogram library  Presentation Title Access to\ninformation Affirmation AI driven innovation AR/VR\u000bwearables Artificial\nintelligence Asset and wealth\nmanagement Atom Auditing Automation Bike Birthday/"
+  },
+  "slide": {
+    "title": "PwC Content Element 66",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Pictogram library ",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 1113,
+          "y": 484,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 398,
+          "y": 137,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Access to",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia",
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 47,
+          "y": 246,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "information",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia",
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 47,
+          "y": 246,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Affirmation",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 223,
+          "y": 246,
+          "w": 93,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "AI driven innovation",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 405,
+          "y": 246,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "AR/VR",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "wearables",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 546,
+          "y": 246,
+          "w": 153,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Artificial",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 756,
+          "y": 246,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "intelligence",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 756,
+          "y": 246,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Asset and wealth",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 918,
+          "y": 246,
+          "w": 126,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "management",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 918,
+          "y": 246,
+          "w": 126,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Atom",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1111,
+          "y": 246,
+          "w": 96,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Auditing",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 47,
+          "y": 420,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Automation",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 224,
+          "y": 420,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Bike",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 396,
+          "y": 420,
+          "w": 104,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Birthday/",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "Celebration*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 571,
+          "y": 420,
+          "w": 102,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Camera*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1114,
+          "y": 420,
+          "w": 98,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Car",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 227,
+          "y": 586,
+          "w": 95,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Cargo ship",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 400,
+          "y": 585,
+          "w": 98,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Charity",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 577,
+          "y": 585,
+          "w": 98,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": " Chemicals",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 754,
+          "y": 585,
+          "w": 100,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Climate",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 935,
+          "y": 585,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "control",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 935,
+          "y": 585,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Cloud",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1113,
+          "y": 585,
+          "w": 99,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 42,
+          "y": 137,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 220,
+          "y": 137,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 577,
+          "y": 137,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 755,
+          "y": 137,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 933,
+          "y": 137,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 1112,
+          "y": 137,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 44,
+          "y": 312,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 222,
+          "y": 312,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 400,
+          "y": 312,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 228,
+          "y": 478,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 400,
+          "y": 484,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 578,
+          "y": 484,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 756,
+          "y": 484,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 935,
+          "y": 484,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Cap/Alumni*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 47,
+          "y": 586,
+          "w": 98,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 49,
+          "y": 478,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Calendar",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 937,
+          "y": 420,
+          "w": 98,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 937,
+          "y": 312,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Calculator/ Tax",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 760,
+          "y": 420,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 758,
+          "y": 312,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 574,
+          "y": 315,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_66_placeholder.png",
+        "alt": "Element image 66",
+        "box": {
+          "x": 1116,
+          "y": 324,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "*New",
+            "bold": false,
+            "font_size": 11
+          }
+        ],
+        "box": {
+          "x": 582,
+          "y": 682,
+          "w": 117,
+          "h": 24,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      }
+    ]
+  }
+}

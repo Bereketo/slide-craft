@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "element_number": 2,
+    "category": "chart",
+    "description": "Chart or graph layout",
+    "extracted_text": "Bios, CV\u2019s and team charts 1 Presentation Title"
+  },
+  "slide": {
+    "title": "PwC Content Element 2",
+    "background": {
+      "type": "solid",
+      "color": "#FFE8D4"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Bios, CV\u2019s and team charts",
+            "bold": false,
+            "font_size": 48,
+            "font_family": "Georgia",
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 41,
+          "y": 363,
+          "w": 592,
+          "h": 272,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left",
+          "font_family": "Georgia",
+          "font_size": 48,
+          "color": "#000000"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "1",
+            "bold": false,
+            "font_size": 350,
+            "color": "#FD5108",
+            "font_family": "Arial"
+          }
+        ],
+        "box": {
+          "x": 860,
+          "y": 60,
+          "w": 363,
+          "h": 452,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left",
+          "font_family": "Arial",
+          "font_size": 350,
+          "color": "#FD5108"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10.5,
+            "font_family": "Arial",
+            "color": "#2D2D2D"
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left",
+          "font_family": "Arial",
+          "font_size": 10.5,
+          "color": "#2D2D2D"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "PwC",
+            "bold": true,
+            "font_size": 12,
+            "font_family": "Arial",
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 682,
+          "w": 60,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left",
+          "font_family": "Arial",
+          "font_size": 12,
+          "color": "#000000"
+        }
+      }
+    ]
+  }
+}

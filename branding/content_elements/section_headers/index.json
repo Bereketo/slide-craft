@@ -1,0 +1,19 @@
+{
+  "layout_type": "section_headers",
+  "description": "Section divider and header slides",
+  "total_elements": 2,
+  "elements": [
+    {
+      "id": 31,
+      "file": "element_31_section_divider.json",
+      "category": "section_divider",
+      "description": "Section divider"
+    },
+    {
+      "id": 34,
+      "file": "element_34_section_divider.json",
+      "category": "section_divider",
+      "description": "Section divider"
+    }
+  ]
+}

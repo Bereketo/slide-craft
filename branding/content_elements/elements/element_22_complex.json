@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "element_number": 22,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Text and large stat lorem ipsum dolor sit amet, consectetuer adipiscing elit\u000b \t70% Lorem ipsum dolor sit amet, consectetuer adipiscing elit, laoreet dolore magna  \t74% Lorem ipsum dolor sit amet, cons"
+  },
+  "slide": {
+    "title": "PwC Content Element 22",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Text and large stat lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+            "bold": false,
+            "font_size": 40
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 366,
+          "w": 550,
+          "h": 256,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "\t70%",
+            "bold": false,
+            "font_size": 54,
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 42,
+          "w": 290,
+          "h": 291,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, laoreet dolore magna ",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 663,
+          "y": 258,
+          "w": 260,
+          "h": 58,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "\t74%",
+            "bold": false,
+            "font_size": 54,
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 42,
+          "w": 290,
+          "h": 291,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, laoreet dolore magna ",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 965,
+          "y": 258,
+          "w": 260,
+          "h": 58,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "\t26%",
+            "bold": false,
+            "font_size": 54,
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 347,
+          "w": 290,
+          "h": 291,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, laoreet dolore magna ",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 663,
+          "y": 563,
+          "w": 260,
+          "h": 58,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "\t46%",
+            "bold": false,
+            "font_size": 54,
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 347,
+          "w": 290,
+          "h": 291,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, laoreet dolore magna ",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 965,
+          "y": 563,
+          "w": 260,
+          "h": 58,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

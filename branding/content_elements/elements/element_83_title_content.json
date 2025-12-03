@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "element_number": 83,
+    "category": "title_content",
+    "description": "Title and content layout",
+    "extracted_text": "12 x 12 grid For secondary surfaces we have an editorial grid that offers more guidance and flexibility.\nBy adhering to our overarching layout principles (guiding the eye, utilizing negative space, et"
+  },
+  "slide": {
+    "title": "PwC Content Element 83",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "image",
+        "src": "images/element_83_placeholder.png",
+        "alt": "Element image 83",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "12 x 12 grid",
+            "bold": false,
+            "font_size": 40
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 420,
+          "w": 490,
+          "h": 136,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "For secondary surfaces we ",
+            "bold": true,
+            "font_size": 15
+          },
+          {
+            "text": "have an ",
+            "bold": true,
+            "font_size": 15
+          },
+          {
+            "text": "editorial grid that offers more guidance and flexibility.",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 40,
+          "w": 592,
+          "h": 369,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "By adhering to our overarching layout principles (guiding the eye, utilizing negative space, etc), we can still create layouts with a sense of momentum while ensuring content is structured and communicated effectively.",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 40,
+          "w": 592,
+          "h": 369,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "A 12x12 grid has plenty of flexibility due to its inherent divisible nature. Divided equally, we can establish anchor points on both the horizontal and vertical axes. ",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 40,
+          "w": 592,
+          "h": 369,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "PwC",
+            "bold": true,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 41,
+          "y": 683,
+          "w": 45,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

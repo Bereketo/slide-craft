@@ -1,0 +1,589 @@
+{
+  "total_elements": 95,
+  "categories": {
+    "chart": 25,
+    "content": 10,
+    "two_column": 4,
+    "complex": 13,
+    "image_layout": 3,
+    "simple": 5,
+    "timeline": 14,
+    "section_divider": 2,
+    "table": 14,
+    "blank": 3,
+    "title_content": 1,
+    "bullet_list": 1
+  },
+  "elements": [
+    {
+      "id": 1,
+      "file": "element_01_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 2,
+      "file": "element_02_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 3,
+      "file": "element_03_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 4,
+      "file": "element_04_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 5,
+      "file": "element_05_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 6,
+      "file": "element_06_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 7,
+      "file": "element_07_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 8,
+      "file": "element_08_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 9,
+      "file": "element_09_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    },
+    {
+      "id": 10,
+      "file": "element_10_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    },
+    {
+      "id": 11,
+      "file": "element_11_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    },
+    {
+      "id": 12,
+      "file": "element_12_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    },
+    {
+      "id": 13,
+      "file": "element_13_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 14,
+      "file": "element_14_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 15,
+      "file": "element_15_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 16,
+      "file": "element_16_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 17,
+      "file": "element_17_image_layout.json",
+      "category": "image_layout",
+      "description": "Image-focused layout"
+    },
+    {
+      "id": 18,
+      "file": "element_18_image_layout.json",
+      "category": "image_layout",
+      "description": "Image-focused layout"
+    },
+    {
+      "id": 19,
+      "file": "element_19_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 20,
+      "file": "element_20_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 21,
+      "file": "element_21_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 22,
+      "file": "element_22_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 23,
+      "file": "element_23_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 24,
+      "file": "element_24_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 25,
+      "file": "element_25_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 26,
+      "file": "element_26_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 27,
+      "file": "element_27_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 28,
+      "file": "element_28_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 29,
+      "file": "element_29_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 30,
+      "file": "element_30_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 31,
+      "file": "element_31_section_divider.json",
+      "category": "section_divider",
+      "description": "Section divider"
+    },
+    {
+      "id": 32,
+      "file": "element_32_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 33,
+      "file": "element_33_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 34,
+      "file": "element_34_section_divider.json",
+      "category": "section_divider",
+      "description": "Section divider"
+    },
+    {
+      "id": 35,
+      "file": "element_35_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 36,
+      "file": "element_36_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 37,
+      "file": "element_37_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 38,
+      "file": "element_38_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 39,
+      "file": "element_39_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 40,
+      "file": "element_40_timeline.json",
+      "category": "timeline",
+      "description": "Timeline or process layout"
+    },
+    {
+      "id": 41,
+      "file": "element_41_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 42,
+      "file": "element_42_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 43,
+      "file": "element_43_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 44,
+      "file": "element_44_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 45,
+      "file": "element_45_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 46,
+      "file": "element_46_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 47,
+      "file": "element_47_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 48,
+      "file": "element_48_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 49,
+      "file": "element_49_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 50,
+      "file": "element_50_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 51,
+      "file": "element_51_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 52,
+      "file": "element_52_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 53,
+      "file": "element_53_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 54,
+      "file": "element_54_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 55,
+      "file": "element_55_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 56,
+      "file": "element_56_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 57,
+      "file": "element_57_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 58,
+      "file": "element_58_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 59,
+      "file": "element_59_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 60,
+      "file": "element_60_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 61,
+      "file": "element_61_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 62,
+      "file": "element_62_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 63,
+      "file": "element_63_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 64,
+      "file": "element_64_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 65,
+      "file": "element_65_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 66,
+      "file": "element_66_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 67,
+      "file": "element_67_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 68,
+      "file": "element_68_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 69,
+      "file": "element_69_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 70,
+      "file": "element_70_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 71,
+      "file": "element_71_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 72,
+      "file": "element_72_complex.json",
+      "category": "complex",
+      "description": "Complex multi-element layout"
+    },
+    {
+      "id": 73,
+      "file": "element_73_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 74,
+      "file": "element_74_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    },
+    {
+      "id": 75,
+      "file": "element_75_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 76,
+      "file": "element_76_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 77,
+      "file": "element_77_blank.json",
+      "category": "blank",
+      "description": "Blank or minimal layout"
+    },
+    {
+      "id": 78,
+      "file": "element_78_blank.json",
+      "category": "blank",
+      "description": "Blank or minimal layout"
+    },
+    {
+      "id": 79,
+      "file": "element_79_blank.json",
+      "category": "blank",
+      "description": "Blank or minimal layout"
+    },
+    {
+      "id": 80,
+      "file": "element_80_image_layout.json",
+      "category": "image_layout",
+      "description": "Image-focused layout"
+    },
+    {
+      "id": 81,
+      "file": "element_81_simple.json",
+      "category": "simple",
+      "description": "Simple layout"
+    },
+    {
+      "id": 82,
+      "file": "element_82_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 83,
+      "file": "element_83_title_content.json",
+      "category": "title_content",
+      "description": "Title and content layout"
+    },
+    {
+      "id": 84,
+      "file": "element_84_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 85,
+      "file": "element_85_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 86,
+      "file": "element_86_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 87,
+      "file": "element_87_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 88,
+      "file": "element_88_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 89,
+      "file": "element_89_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 90,
+      "file": "element_90_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 91,
+      "file": "element_91_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 92,
+      "file": "element_92_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 93,
+      "file": "element_93_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 94,
+      "file": "element_94_bullet_list.json",
+      "category": "bullet_list",
+      "description": "Bullet point or list layout"
+    },
+    {
+      "id": 95,
+      "file": "element_95_content.json",
+      "category": "content",
+      "description": "Standard content layout"
+    }
+  ]
+}

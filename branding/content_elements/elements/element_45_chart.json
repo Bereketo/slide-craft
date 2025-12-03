@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "element_number": 45,
+    "category": "chart",
+    "description": "Chart or graph layout",
+    "extracted_text": "Chart and two content Lorem ipsum dolor\nSecond level text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.\nThird leve"
+  },
+  "slide": {
+    "title": "PwC Content Element 45",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Chart and two content",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Second level text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Third level text. Duis autem vel eum iriure dolor in hendrerit in vulputate.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Third level text. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Second level text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Third level text. Duis autem vel eum iriure dolor in hendrerit in vulputate.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Third level text. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie.",
+            "bold": false,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 259,
+          "w": 289,
+          "h": 365,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

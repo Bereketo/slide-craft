@@ -1,0 +1,570 @@
+{
+  "metadata": {
+    "element_number": 31,
+    "category": "section_divider",
+    "description": "Section divider",
+    "extracted_text": "Process Presentation Title 01 03 02 05 06 04 Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed"
+  },
+  "slide": {
+    "title": "PwC Content Element 31",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Process",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "01",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 589,
+          "y": 157,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "03",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 744,
+          "y": 414,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "02",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 740,
+          "y": 234,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "05",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 447,
+          "y": 414,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "06",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 432,
+          "y": 234,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "04",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 590,
+          "y": 504,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 150,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 312,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 473,
+          "w": 290,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Section title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 296,
+          "y": 277,
+          "w": 151,
+          "h": 29,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Section title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 732,
+          "y": 162,
+          "w": 151,
+          "h": 29,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Section title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 798,
+          "y": 420,
+          "w": 151,
+          "h": 29,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Section title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 353,
+          "y": 538,
+          "w": 151,
+          "h": 29,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Section title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 485,
+          "y": 86,
+          "w": 151,
+          "h": 29,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Section title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 614,
+          "y": 605,
+          "w": 151,
+          "h": 29,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Our goal ",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "lorem ipsum",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 528,
+          "y": 290,
+          "w": 185,
+          "h": 150,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "layout_type": "title_content",
+  "description": "Title with content layouts",
+  "total_elements": 1,
+  "elements": [
+    {
+      "id": 83,
+      "file": "element_83_title_content.json",
+      "category": "title_content",
+      "description": "Title and content layout"
+    }
+  ]
+}

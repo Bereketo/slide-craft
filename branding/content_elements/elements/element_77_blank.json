@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "element_number": 77,
+    "category": "blank",
+    "description": "Blank or minimal layout",
+    "extracted_text": "Conclusion 1"
+  },
+  "slide": {
+    "title": "PwC Content Element 77",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Conclusion 1",
+            "bold": false,
+            "font_size": 66
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 696,
+          "h": 155,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

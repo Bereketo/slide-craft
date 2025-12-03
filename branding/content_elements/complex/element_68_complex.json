@@ -1,0 +1,846 @@
+{
+  "metadata": {
+    "element_number": 68,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Pictogram library  Presentation Title Environment—Regeneration ESG Face\nrecognition Film Financial services / Banking—Dollar Financial services / Banking—Euro Financial services / Banking—Pound Financ"
+  },
+  "slide": {
+    "title": "PwC Content Element 68",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Pictogram library ",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Environment—",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "Regeneration",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 34,
+          "y": 415,
+          "w": 118,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "ESG",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 225,
+          "y": 415,
+          "w": 95,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Face",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 415,
+          "w": 98,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "recognition",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 415,
+          "w": 98,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Film",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 756,
+          "y": 415,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Financial services / Banking—Dollar",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 902,
+          "y": 415,
+          "w": 148,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Financial services / Banking—Euro",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1086,
+          "y": 416,
+          "w": 148,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Financial services / Banking—Pound",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 31,
+          "y": 587,
+          "w": 136,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Financial services/Bank",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 219,
+          "y": 587,
+          "w": 114,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Financial",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 401,
+          "y": 587,
+          "w": 104,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "statement",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 401,
+          "y": 587,
+          "w": 104,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Full battery",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 760,
+          "y": 587,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Gaming",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 941,
+          "y": 587,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Government/ Public sector",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1109,
+          "y": 587,
+          "w": 103,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 45,
+          "y": 307,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 223,
+          "y": 307,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 401,
+          "y": 307,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 750,
+          "y": 307,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 928,
+          "y": 307,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 1112,
+          "y": 307,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 49,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 227,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 405,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 756,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 934,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 1112,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Document",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 21,
+          "y": 250,
+          "w": 139,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "E-book",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 204,
+          "y": 250,
+          "w": 139,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Education",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 406,
+          "y": 250,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Electric",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "station",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 562,
+          "y": 250,
+          "w": 126,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Electric vehicle",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 760,
+          "y": 250,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 41,
+          "y": 145,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 225,
+          "y": 145,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 401,
+          "y": 145,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 579,
+          "y": 145,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 755,
+          "y": 150,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Energy",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia",
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 1114,
+          "y": 251,
+          "w": 86,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 1109,
+          "y": 143,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Employee",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 931,
+          "y": 251,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 931,
+          "y": 143,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Family*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 583,
+          "y": 415,
+          "w": 98,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 579,
+          "y": 317,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Fruits*",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 593,
+          "y": 587,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_68_placeholder.png",
+        "alt": "Element image 68",
+        "box": {
+          "x": 583,
+          "y": 474,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "*New",
+            "bold": false,
+            "font_size": 11
+          }
+        ],
+        "box": {
+          "x": 582,
+          "y": 682,
+          "w": 117,
+          "h": 24,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      }
+    ]
+  }
+}

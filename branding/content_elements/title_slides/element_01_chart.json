@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "element_number": 1,
+    "category": "chart",
+    "description": "Chart or graph layout",
+    "extracted_text": "Graphic elements\u000blevel 1 Prepared by Global Brand\n2025"
+  },
+  "slide": {
+    "title": "PwC Content Element 1",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Graphic elements",
+            "bold": false,
+            "font_size": 48
+          },
+          {
+            "text": "level 1",
+            "bold": false,
+            "font_size": 48
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 591,
+          "h": 192,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Prepared by ",
+            "bold": false,
+            "font_size": 14
+          },
+          {
+            "text": "Global Brand",
+            "bold": true,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 635,
+          "w": 491,
+          "h": 47,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "2025",
+            "bold": false,
+            "font_size": 14
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 635,
+          "w": 491,
+          "h": 47,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

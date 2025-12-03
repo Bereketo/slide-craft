@@ -1,0 +1,13 @@
+{
+  "layout_type": "bullet_lists",
+  "description": "Bullet point and list layouts",
+  "total_elements": 1,
+  "elements": [
+    {
+      "id": 94,
+      "file": "element_94_bullet_list.json",
+      "category": "bullet_list",
+      "description": "Bullet point or list layout"
+    }
+  ]
+}

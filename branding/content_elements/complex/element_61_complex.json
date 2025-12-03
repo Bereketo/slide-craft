@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "element_number": 61,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Icons Use icons to help navigate through your presentation. \nIf you’re trying to convey a concept or idea, choose a pictogram (simple) or illustration (more complex). \nIcons are colored black. They ca"
+  },
+  "slide": {
+    "title": "PwC Content Element 61",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Icons",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 135,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Use icons to help navigate through your presentation. ",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "If you’re trying to convey a concept or idea, choose a pictogram (simple) or illustration (more complex). ",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Icons are colored black. They can be placed over white or the lightest tints of orange and gray.",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Do not scale icons larger than seen here. The minimum height is .5 inches / 1.25cm.",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Do not create your own icons or use icons from another source. If you would like to request a new icon, contact the Brand Support Hub.",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 852,
+          "y": 332,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 1082,
+          "y": 332,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 968,
+          "y": 332,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 852,
+          "y": 210,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 1082,
+          "y": 210,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 968,
+          "y": 210,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 852,
+          "y": 463,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 1082,
+          "y": 463,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_61_placeholder.png",
+        "alt": "Element image 61",
+        "box": {
+          "x": 968,
+          "y": 463,
+          "w": 57,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      }
+    ]
+  }
+}

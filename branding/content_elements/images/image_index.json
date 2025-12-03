@@ -1,0 +1,4125 @@
+{
+  "total_elements": 95,
+  "elements_with_images": 19,
+  "total_images_extracted": 286,
+  "extractions": {
+    "element_36": {
+      "element_number": 36,
+      "image_count": 4,
+      "images": [
+        {
+          "filename": "element_36_image_1.png",
+          "position": {
+            "x": 483,
+            "y": 412,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_36_image_2.png",
+          "position": {
+            "x": 483,
+            "y": 211,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_36_image_3.png",
+          "position": {
+            "x": 712,
+            "y": 414,
+            "w": 83,
+            "h": 83
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_36_image_4.png",
+          "position": {
+            "x": 700,
+            "y": 206,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_39": {
+      "element_number": 39,
+      "image_count": 6,
+      "images": [
+        {
+          "filename": "element_39_image_1.png",
+          "position": {
+            "x": 1154,
+            "y": 491,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_39_image_2.png",
+          "position": {
+            "x": 428,
+            "y": 199,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_39_image_3.png",
+          "position": {
+            "x": 345,
+            "y": 497,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_39_image_4.png",
+          "position": {
+            "x": 837,
+            "y": 202,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_39_image_5.png",
+          "position": {
+            "x": 36,
+            "y": 205,
+            "w": 96,
+            "h": 94
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_39_image_6.png",
+          "position": {
+            "x": 751,
+            "y": 503,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_59": {
+      "element_number": 59,
+      "image_count": 1,
+      "images": [
+        {
+          "filename": "element_59_image_1.png",
+          "position": {
+            "x": 364,
+            "y": 128,
+            "w": 884,
+            "h": 510
+          },
+          "actual_dimensions": {
+            "width": 1200,
+            "height": 693
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_61": {
+      "element_number": 61,
+      "image_count": 9,
+      "images": [
+        {
+          "filename": "element_61_image_1.png",
+          "position": {
+            "x": 852,
+            "y": 332,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_2.png",
+          "position": {
+            "x": 1082,
+            "y": 332,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_3.png",
+          "position": {
+            "x": 968,
+            "y": 332,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_4.png",
+          "position": {
+            "x": 852,
+            "y": 210,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_5.png",
+          "position": {
+            "x": 1082,
+            "y": 210,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_6.png",
+          "position": {
+            "x": 968,
+            "y": 210,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_7.png",
+          "position": {
+            "x": 852,
+            "y": 463,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_8.png",
+          "position": {
+            "x": 1082,
+            "y": 463,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_61_image_9.png",
+          "position": {
+            "x": 968,
+            "y": 463,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_62": {
+      "element_number": 62,
+      "image_count": 48,
+      "images": [
+        {
+          "filename": "element_62_image_1.png",
+          "position": {
+            "x": 1166,
+            "y": 554,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_2.png",
+          "position": {
+            "x": 58,
+            "y": 419,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_3.png",
+          "position": {
+            "x": 561,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_4.png",
+          "position": {
+            "x": 863,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_5.png",
+          "position": {
+            "x": 661,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_6.png",
+          "position": {
+            "x": 1066,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_7.png",
+          "position": {
+            "x": 865,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_8.png",
+          "position": {
+            "x": 965,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_9.png",
+          "position": {
+            "x": 762,
+            "y": 417,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_10.png",
+          "position": {
+            "x": 762,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_11.png",
+          "position": {
+            "x": 158,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_12.png",
+          "position": {
+            "x": 460,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_13.png",
+          "position": {
+            "x": 764,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_14.png",
+          "position": {
+            "x": 360,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_15.png",
+          "position": {
+            "x": 58,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_16.png",
+          "position": {
+            "x": 159,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_17.png",
+          "position": {
+            "x": 461,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_18.png",
+          "position": {
+            "x": 259,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_19.png",
+          "position": {
+            "x": 662,
+            "y": 417,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_20.png",
+          "position": {
+            "x": 461,
+            "y": 417,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_21.png",
+          "position": {
+            "x": 663,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_22.png",
+          "position": {
+            "x": 562,
+            "y": 417,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_23.png",
+          "position": {
+            "x": 259,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_24.png",
+          "position": {
+            "x": 359,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_25.png",
+          "position": {
+            "x": 1063,
+            "y": 419,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_26.png",
+          "position": {
+            "x": 255,
+            "y": 417,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_27.png",
+          "position": {
+            "x": 661,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_28.png",
+          "position": {
+            "x": 762,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_29.png",
+          "position": {
+            "x": 962,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_30.png",
+          "position": {
+            "x": 862,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_31.png",
+          "position": {
+            "x": 561,
+            "y": 266,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_32.png",
+          "position": {
+            "x": 359,
+            "y": 268,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_33.png",
+          "position": {
+            "x": 561,
+            "y": 122,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_34.png",
+          "position": {
+            "x": 1066,
+            "y": 554,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_35.png",
+          "position": {
+            "x": 965,
+            "y": 555,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_36.png",
+          "position": {
+            "x": 56,
+            "y": 554,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_37.png",
+          "position": {
+            "x": 963,
+            "y": 417,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_38.png",
+          "position": {
+            "x": 862,
+            "y": 421,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_39.png",
+          "position": {
+            "x": 1167,
+            "y": 121,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_40.png",
+          "position": {
+            "x": 57,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_41.png",
+          "position": {
+            "x": 158,
+            "y": 273,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_42.png",
+          "position": {
+            "x": 260,
+            "y": 274,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_43.png",
+          "position": {
+            "x": 461,
+            "y": 271,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_44.png",
+          "position": {
+            "x": 1066,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_45.png",
+          "position": {
+            "x": 159,
+            "y": 423,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_46.png",
+          "position": {
+            "x": 1166,
+            "y": 274,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_47.png",
+          "position": {
+            "x": 1164,
+            "y": 424,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_62_image_48.png",
+          "position": {
+            "x": 360,
+            "y": 417,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_63": {
+      "element_number": 63,
+      "image_count": 48,
+      "images": [
+        {
+          "filename": "element_63_image_1.png",
+          "position": {
+            "x": 562,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_2.png",
+          "position": {
+            "x": 360,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_3.png",
+          "position": {
+            "x": 360,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_4.png",
+          "position": {
+            "x": 561,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_5.png",
+          "position": {
+            "x": 259,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_6.png",
+          "position": {
+            "x": 864,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_7.png",
+          "position": {
+            "x": 1064,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_8.png",
+          "position": {
+            "x": 259,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_9.png",
+          "position": {
+            "x": 460,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_10.png",
+          "position": {
+            "x": 561,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_11.png",
+          "position": {
+            "x": 1164,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_12.png",
+          "position": {
+            "x": 159,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_13.png",
+          "position": {
+            "x": 662,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_14.png",
+          "position": {
+            "x": 863,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_15.png",
+          "position": {
+            "x": 1165,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_16.png",
+          "position": {
+            "x": 862,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_17.png",
+          "position": {
+            "x": 963,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_18.png",
+          "position": {
+            "x": 1165,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_19.png",
+          "position": {
+            "x": 58,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_20.png",
+          "position": {
+            "x": 159,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_21.png",
+          "position": {
+            "x": 661,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_22.png",
+          "position": {
+            "x": 762,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_23.png",
+          "position": {
+            "x": 1063,
+            "y": 553,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_24.png",
+          "position": {
+            "x": 58,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_25.png",
+          "position": {
+            "x": 461,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_26.png",
+          "position": {
+            "x": 762,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_27.png",
+          "position": {
+            "x": 964,
+            "y": 414,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_28.png",
+          "position": {
+            "x": 160,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_29.png",
+          "position": {
+            "x": 260,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_30.png",
+          "position": {
+            "x": 361,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_31.png",
+          "position": {
+            "x": 461,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_32.png",
+          "position": {
+            "x": 59,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_33.png",
+          "position": {
+            "x": 964,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_34.png",
+          "position": {
+            "x": 663,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_35.png",
+          "position": {
+            "x": 1065,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_36.png",
+          "position": {
+            "x": 763,
+            "y": 272,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_37.png",
+          "position": {
+            "x": 662,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_38.png",
+          "position": {
+            "x": 461,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_39.png",
+          "position": {
+            "x": 561,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_40.png",
+          "position": {
+            "x": 763,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_41.png",
+          "position": {
+            "x": 863,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_42.png",
+          "position": {
+            "x": 1065,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_43.png",
+          "position": {
+            "x": 58,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_44.png",
+          "position": {
+            "x": 159,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_45.png",
+          "position": {
+            "x": 259,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_46.png",
+          "position": {
+            "x": 360,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_47.png",
+          "position": {
+            "x": 1165,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_63_image_48.png",
+          "position": {
+            "x": 964,
+            "y": 128,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_64": {
+      "element_number": 64,
+      "image_count": 8,
+      "images": [
+        {
+          "filename": "element_64_image_1.png",
+          "position": {
+            "x": 363,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_64_image_2.png",
+          "position": {
+            "x": 59,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_64_image_3.png",
+          "position": {
+            "x": 267,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_64_image_4.png",
+          "position": {
+            "x": 658,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_64_image_5.png",
+          "position": {
+            "x": 758,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_64_image_6.png",
+          "position": {
+            "x": 161,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_64_image_7.png",
+          "position": {
+            "x": 460,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_64_image_8.png",
+          "position": {
+            "x": 557,
+            "y": 123,
+            "w": 57,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_65": {
+      "element_number": 65,
+      "image_count": 9,
+      "images": [
+        {
+          "filename": "element_65_image_1.png",
+          "position": {
+            "x": 770,
+            "y": 185,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_2.png",
+          "position": {
+            "x": 949,
+            "y": 185,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_3.png",
+          "position": {
+            "x": 1125,
+            "y": 185,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_4.png",
+          "position": {
+            "x": 770,
+            "y": 321,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_5.png",
+          "position": {
+            "x": 949,
+            "y": 321,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_6.png",
+          "position": {
+            "x": 1125,
+            "y": 321,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_7.png",
+          "position": {
+            "x": 770,
+            "y": 480,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_8.png",
+          "position": {
+            "x": 949,
+            "y": 480,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_65_image_9.png",
+          "position": {
+            "x": 1125,
+            "y": 480,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_66": {
+      "element_number": 66,
+      "image_count": 21,
+      "images": [
+        {
+          "filename": "element_66_image_1.png",
+          "position": {
+            "x": 1113,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_2.png",
+          "position": {
+            "x": 398,
+            "y": 137,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_3.png",
+          "position": {
+            "x": 42,
+            "y": 137,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_4.png",
+          "position": {
+            "x": 220,
+            "y": 137,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_5.png",
+          "position": {
+            "x": 577,
+            "y": 137,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_6.png",
+          "position": {
+            "x": 755,
+            "y": 137,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_7.png",
+          "position": {
+            "x": 933,
+            "y": 137,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_8.png",
+          "position": {
+            "x": 1112,
+            "y": 137,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_9.png",
+          "position": {
+            "x": 44,
+            "y": 312,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_10.png",
+          "position": {
+            "x": 222,
+            "y": 312,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_11.png",
+          "position": {
+            "x": 400,
+            "y": 312,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_12.png",
+          "position": {
+            "x": 228,
+            "y": 478,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_13.png",
+          "position": {
+            "x": 400,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_14.png",
+          "position": {
+            "x": 578,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_15.png",
+          "position": {
+            "x": 756,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_16.png",
+          "position": {
+            "x": 935,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_17.png",
+          "position": {
+            "x": 49,
+            "y": 478,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_18.png",
+          "position": {
+            "x": 937,
+            "y": 312,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_19.png",
+          "position": {
+            "x": 758,
+            "y": 312,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_20.png",
+          "position": {
+            "x": 574,
+            "y": 315,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_66_image_21.png",
+          "position": {
+            "x": 1116,
+            "y": 324,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_67": {
+      "element_number": 67,
+      "image_count": 21,
+      "images": [
+        {
+          "filename": "element_67_image_1.png",
+          "position": {
+            "x": 575,
+            "y": 138,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_2.png",
+          "position": {
+            "x": 757,
+            "y": 138,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_3.png",
+          "position": {
+            "x": 936,
+            "y": 138,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_4.png",
+          "position": {
+            "x": 1114,
+            "y": 138,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_5.png",
+          "position": {
+            "x": 44,
+            "y": 308,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_6.png",
+          "position": {
+            "x": 761,
+            "y": 308,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_7.png",
+          "position": {
+            "x": 939,
+            "y": 308,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_8.png",
+          "position": {
+            "x": 1115,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_9.png",
+          "position": {
+            "x": 50,
+            "y": 476,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_10.png",
+          "position": {
+            "x": 228,
+            "y": 476,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_11.png",
+          "position": {
+            "x": 406,
+            "y": 478,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_12.png",
+          "position": {
+            "x": 765,
+            "y": 478,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_13.png",
+          "position": {
+            "x": 940,
+            "y": 485,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_14.png",
+          "position": {
+            "x": 397,
+            "y": 138,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_15.png",
+          "position": {
+            "x": 42,
+            "y": 146,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_16.png",
+          "position": {
+            "x": 220,
+            "y": 146,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_17.png",
+          "position": {
+            "x": 225,
+            "y": 308,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_18.png",
+          "position": {
+            "x": 403,
+            "y": 308,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_19.png",
+          "position": {
+            "x": 578,
+            "y": 314,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_20.png",
+          "position": {
+            "x": 579,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_67_image_21.png",
+          "position": {
+            "x": 1113,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_68": {
+      "element_number": 68,
+      "image_count": 21,
+      "images": [
+        {
+          "filename": "element_68_image_1.png",
+          "position": {
+            "x": 45,
+            "y": 307,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_2.png",
+          "position": {
+            "x": 223,
+            "y": 307,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_3.png",
+          "position": {
+            "x": 401,
+            "y": 307,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_4.png",
+          "position": {
+            "x": 750,
+            "y": 307,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_5.png",
+          "position": {
+            "x": 928,
+            "y": 307,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_6.png",
+          "position": {
+            "x": 1112,
+            "y": 307,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_7.png",
+          "position": {
+            "x": 49,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_8.png",
+          "position": {
+            "x": 227,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_9.png",
+          "position": {
+            "x": 405,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_10.png",
+          "position": {
+            "x": 756,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_11.png",
+          "position": {
+            "x": 934,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_12.png",
+          "position": {
+            "x": 1112,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_13.png",
+          "position": {
+            "x": 41,
+            "y": 145,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_14.png",
+          "position": {
+            "x": 225,
+            "y": 145,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_15.png",
+          "position": {
+            "x": 401,
+            "y": 145,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_16.png",
+          "position": {
+            "x": 579,
+            "y": 145,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_17.png",
+          "position": {
+            "x": 755,
+            "y": 150,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_18.png",
+          "position": {
+            "x": 1109,
+            "y": 143,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_19.png",
+          "position": {
+            "x": 931,
+            "y": 143,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_20.png",
+          "position": {
+            "x": 579,
+            "y": 317,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_68_image_21.png",
+          "position": {
+            "x": 583,
+            "y": 474,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_69": {
+      "element_number": 69,
+      "image_count": 21,
+      "images": [
+        {
+          "filename": "element_69_image_1.png",
+          "position": {
+            "x": 936,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_2.png",
+          "position": {
+            "x": 48,
+            "y": 481,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_3.png",
+          "position": {
+            "x": 227,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_4.png",
+          "position": {
+            "x": 403,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_5.png",
+          "position": {
+            "x": 581,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_6.png",
+          "position": {
+            "x": 759,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_7.png",
+          "position": {
+            "x": 937,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_8.png",
+          "position": {
+            "x": 1115,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_9.png",
+          "position": {
+            "x": 402,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_10.png",
+          "position": {
+            "x": 580,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_11.png",
+          "position": {
+            "x": 44,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_12.png",
+          "position": {
+            "x": 1114,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_13.png",
+          "position": {
+            "x": 49,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_14.png",
+          "position": {
+            "x": 227,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_15.png",
+          "position": {
+            "x": 761,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_16.png",
+          "position": {
+            "x": 939,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_17.png",
+          "position": {
+            "x": 1118,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_18.png",
+          "position": {
+            "x": 405,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_19.png",
+          "position": {
+            "x": 583,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_20.png",
+          "position": {
+            "x": 225,
+            "y": 314,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_69_image_21.png",
+          "position": {
+            "x": 758,
+            "y": 316,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_70": {
+      "element_number": 70,
+      "image_count": 21,
+      "images": [
+        {
+          "filename": "element_70_image_1.png",
+          "position": {
+            "x": 755,
+            "y": 482,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_2.png",
+          "position": {
+            "x": 933,
+            "y": 482,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_3.png",
+          "position": {
+            "x": 1111,
+            "y": 482,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_4.png",
+          "position": {
+            "x": 567,
+            "y": 309,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_5.png",
+          "position": {
+            "x": 931,
+            "y": 309,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_6.png",
+          "position": {
+            "x": 1109,
+            "y": 309,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_7.png",
+          "position": {
+            "x": 45,
+            "y": 483,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_8.png",
+          "position": {
+            "x": 223,
+            "y": 483,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_9.png",
+          "position": {
+            "x": 401,
+            "y": 483,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_10.png",
+          "position": {
+            "x": 577,
+            "y": 482,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_11.png",
+          "position": {
+            "x": 389,
+            "y": 309,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_12.png",
+          "position": {
+            "x": 1109,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_13.png",
+          "position": {
+            "x": 225,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_14.png",
+          "position": {
+            "x": 397,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_15.png",
+          "position": {
+            "x": 575,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_16.png",
+          "position": {
+            "x": 753,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_17.png",
+          "position": {
+            "x": 931,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_18.png",
+          "position": {
+            "x": 43,
+            "y": 138,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_19.png",
+          "position": {
+            "x": 221,
+            "y": 138,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_20.png",
+          "position": {
+            "x": 750,
+            "y": 310,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_70_image_21.png",
+          "position": {
+            "x": 44,
+            "y": 313,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 64,
+            "height": 64
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_71": {
+      "element_number": 71,
+      "image_count": 21,
+      "images": [
+        {
+          "filename": "element_71_image_1.png",
+          "position": {
+            "x": 1107,
+            "y": 313,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_2.png",
+          "position": {
+            "x": 45,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_3.png",
+          "position": {
+            "x": 223,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_4.png",
+          "position": {
+            "x": 401,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_5.png",
+          "position": {
+            "x": 578,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_6.png",
+          "position": {
+            "x": 756,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_7.png",
+          "position": {
+            "x": 934,
+            "y": 484,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_8.png",
+          "position": {
+            "x": 1115,
+            "y": 483,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_9.png",
+          "position": {
+            "x": 570,
+            "y": 146,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_10.png",
+          "position": {
+            "x": 748,
+            "y": 146,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_11.png",
+          "position": {
+            "x": 45,
+            "y": 323,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_12.png",
+          "position": {
+            "x": 223,
+            "y": 323,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_13.png",
+          "position": {
+            "x": 574,
+            "y": 318,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_14.png",
+          "position": {
+            "x": 752,
+            "y": 318,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_15.png",
+          "position": {
+            "x": 931,
+            "y": 318,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_16.png",
+          "position": {
+            "x": 43,
+            "y": 139,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_17.png",
+          "position": {
+            "x": 221,
+            "y": 139,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_18.png",
+          "position": {
+            "x": 399,
+            "y": 139,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_19.png",
+          "position": {
+            "x": 934,
+            "y": 139,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_20.png",
+          "position": {
+            "x": 1112,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_71_image_21.png",
+          "position": {
+            "x": 390,
+            "y": 314,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_72": {
+      "element_number": 72,
+      "image_count": 20,
+      "images": [
+        {
+          "filename": "element_72_image_1.png",
+          "position": {
+            "x": 1114,
+            "y": 308,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_2.png",
+          "position": {
+            "x": 55,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_3.png",
+          "position": {
+            "x": 234,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_4.png",
+          "position": {
+            "x": 412,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_5.png",
+          "position": {
+            "x": 590,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_6.png",
+          "position": {
+            "x": 947,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_7.png",
+          "position": {
+            "x": 768,
+            "y": 479,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_8.png",
+          "position": {
+            "x": 1109,
+            "y": 149,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_9.png",
+          "position": {
+            "x": 46,
+            "y": 319,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_10.png",
+          "position": {
+            "x": 224,
+            "y": 319,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_11.png",
+          "position": {
+            "x": 402,
+            "y": 319,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_12.png",
+          "position": {
+            "x": 580,
+            "y": 319,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_13.png",
+          "position": {
+            "x": 936,
+            "y": 319,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_14.png",
+          "position": {
+            "x": 758,
+            "y": 319,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_15.png",
+          "position": {
+            "x": 44,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_16.png",
+          "position": {
+            "x": 222,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_17.png",
+          "position": {
+            "x": 400,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_18.png",
+          "position": {
+            "x": 578,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_19.png",
+          "position": {
+            "x": 933,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_72_image_20.png",
+          "position": {
+            "x": 756,
+            "y": 140,
+            "w": 96,
+            "h": 96
+          },
+          "actual_dimensions": {
+            "width": 144,
+            "height": 144
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_83": {
+      "element_number": 83,
+      "image_count": 1,
+      "images": [
+        {
+          "filename": "element_83_image_1.jpg",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 720
+          },
+          "actual_dimensions": {
+            "width": 1153,
+            "height": 649
+          },
+          "content_type": "image/jpeg"
+        }
+      ]
+    },
+    "element_84": {
+      "element_number": 84,
+      "image_count": 1,
+      "images": [
+        {
+          "filename": "element_84_image_1.png",
+          "position": {
+            "x": 782,
+            "y": 39,
+            "w": 379,
+            "h": 289
+          },
+          "actual_dimensions": {
+            "width": 640,
+            "height": 508
+          },
+          "content_type": "image/png"
+        }
+      ]
+    },
+    "element_86": {
+      "element_number": 86,
+      "image_count": 1,
+      "images": [
+        {
+          "filename": "element_86_image_1.jpg",
+          "position": {
+            "x": 645,
+            "y": 206,
+            "w": 576,
+            "h": 199
+          },
+          "actual_dimensions": {
+            "width": 2725,
+            "height": 946
+          },
+          "content_type": "image/jpeg"
+        }
+      ]
+    },
+    "element_87": {
+      "element_number": 87,
+      "image_count": 4,
+      "images": [
+        {
+          "filename": "element_87_image_1.png",
+          "position": {
+            "x": 48,
+            "y": 400,
+            "w": 183,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 188,
+            "height": 59
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_87_image_2.png",
+          "position": {
+            "x": 350,
+            "y": 399,
+            "w": 184,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 189,
+            "height": 59
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_87_image_3.png",
+          "position": {
+            "x": 652,
+            "y": 399,
+            "w": 183,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 189,
+            "height": 60
+          },
+          "content_type": "image/png"
+        },
+        {
+          "filename": "element_87_image_4.png",
+          "position": {
+            "x": 954,
+            "y": 399,
+            "w": 183,
+            "h": 57
+          },
+          "actual_dimensions": {
+            "width": 189,
+            "height": 60
+          },
+          "content_type": "image/png"
+        }
+      ]
+    }
+  }
+}

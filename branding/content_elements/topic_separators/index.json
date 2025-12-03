@@ -1,0 +1,21 @@
+{
+  "layout_type": "topic_separators",
+  "description": "Topic separator slides to divide between major sections or topics in presentation",
+  "count": 1,
+  "elements": [
+    {
+      "id": 2,
+      "file": "element_02_separator.json",
+      "category": "separator",
+      "description": "Topic separator with large number and section title - ideal for dividing between major topics"
+    }
+  ],
+  "usage_notes": [
+    "Use between major topic changes",
+    "Automatically inserted by AI when transitioning from one main topic to another",
+    "Features large orange number and section title",
+    "Clean, minimal design to mark topic boundaries"
+  ]
+}
+
+

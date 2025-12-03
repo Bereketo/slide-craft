@@ -1,0 +1,987 @@
+{
+  "metadata": {
+    "element_number": 14,
+    "category": "content",
+    "description": "Standard content layout",
+    "extracted_text": "Presentation Title Bios—three people Name Surname\nJob title\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing "
+  },
+  "slide": {
+    "title": "PwC Content Element 14",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Bios—three people",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 135,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 445,
+          "y": 420,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 445,
+          "y": 420,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 445,
+          "y": 420,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ". Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 365,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 747,
+          "y": 420,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 747,
+          "y": 420,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 747,
+          "y": 420,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 1049,
+          "y": 419,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 1049,
+          "y": 419,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 1049,
+          "y": 419,
+          "w": 189,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

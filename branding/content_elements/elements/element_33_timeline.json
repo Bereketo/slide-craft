@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "element_number": 33,
+    "category": "timeline",
+    "description": "Timeline or process layout",
+    "extracted_text": "Process Presentation Title 02 Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 01 04 02 03 Header\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed di"
+  },
+  "slide": {
+    "title": "PwC Content Element 33",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Process",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "02",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 718,
+          "y": 353,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 150,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 150,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "01",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 891,
+          "y": 208,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "04",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 750,
+          "y": 335,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "02",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 1037,
+          "y": 335,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "03",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 888,
+          "y": 461,
+          "w": 53,
+          "h": 53,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 269,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 269,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 381,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 381,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Header",
+            "bold": true,
+            "font_size": 15
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 495,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 495,
+          "w": 396,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

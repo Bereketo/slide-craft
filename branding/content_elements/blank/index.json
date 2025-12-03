@@ -1,0 +1,25 @@
+{
+  "layout_type": "blank",
+  "description": "Blank or minimal layouts",
+  "total_elements": 3,
+  "elements": [
+    {
+      "id": 77,
+      "file": "element_77_blank.json",
+      "category": "blank",
+      "description": "Blank or minimal layout"
+    },
+    {
+      "id": 78,
+      "file": "element_78_blank.json",
+      "category": "blank",
+      "description": "Blank or minimal layout"
+    },
+    {
+      "id": 79,
+      "file": "element_79_blank.json",
+      "category": "blank",
+      "description": "Blank or minimal layout"
+    }
+  ]
+}

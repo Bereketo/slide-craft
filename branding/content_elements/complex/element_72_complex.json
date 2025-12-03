@@ -1,0 +1,791 @@
+{
+  "metadata": {
+    "element_number": 72,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Pictogram library  Presentation Title Water Wealth— \nEuro Wealth—\u000b Pound Wind farm\n World Wealth— \u000bDollar Workforce\n Travel Truck— connected\n Trust Utilities/ Electricity Vision Truck Video call\n Targ"
+  },
+  "slide": {
+    "title": "PwC Content Element 72",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Pictogram library ",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Water",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1110,
+          "y": 418,
+          "w": 103,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Wealth— ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 220,
+          "y": 589,
+          "w": 120,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Euro",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 220,
+          "y": 589,
+          "w": 120,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Wealth—",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": " Pound",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 388,
+          "y": 589,
+          "w": 139,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Wind farm",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 569,
+          "y": 589,
+          "w": 139,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "World",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 947,
+          "y": 589,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Wealth— ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "Dollar",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 38,
+          "y": 589,
+          "w": 126,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 1114,
+          "y": 308,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 55,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 234,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 412,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 590,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 947,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Workforce",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 763,
+          "y": 589,
+          "w": 96,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 768,
+          "y": 479,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Travel",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 1107,
+          "y": 246,
+          "w": 100,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 1109,
+          "y": 149,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Truck— connected",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 223,
+          "y": 417,
+          "w": 99,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Trust",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 400,
+          "y": 417,
+          "w": 95,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Utilities/ Electricity",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 575,
+          "y": 417,
+          "w": 104,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Vision",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 941,
+          "y": 417,
+          "w": 86,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Truck",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 38,
+          "y": 417,
+          "w": 102,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 46,
+          "y": 319,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 224,
+          "y": 319,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 402,
+          "y": 319,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 580,
+          "y": 319,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 936,
+          "y": 319,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Video call",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 760,
+          "y": 417,
+          "w": 94,
+          "h": 26,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 758,
+          "y": 319,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Target",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia",
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 44,
+          "y": 249,
+          "w": 93,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Technology",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 222,
+          "y": 249,
+          "w": 96,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Technology—digital",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 402,
+          "y": 249,
+          "w": 95,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Technology/Media/ Telecom",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 550,
+          "y": 249,
+          "w": 153,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Tools/Plans/ Design",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 918,
+          "y": 249,
+          "w": 126,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 44,
+          "y": 140,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 222,
+          "y": 140,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 400,
+          "y": 140,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 578,
+          "y": 140,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 933,
+          "y": 140,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Television",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 756,
+          "y": 249,
+          "w": 96,
+          "h": 28,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_72_placeholder.png",
+        "alt": "Element image 72",
+        "box": {
+          "x": 756,
+          "y": 140,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "*New",
+            "bold": false,
+            "font_size": 11
+          }
+        ],
+        "box": {
+          "x": 582,
+          "y": 682,
+          "w": 117,
+          "h": 24,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      }
+    ]
+  }
+}

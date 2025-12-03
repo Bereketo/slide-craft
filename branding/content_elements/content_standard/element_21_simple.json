@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "element_number": 21,
+    "category": "simple",
+    "description": "Simple layout",
+    "extracted_text": "Text and large stat \u000blorem ipsum dolor sit amet, consectetuer adipiscing elit\u000b 6,176\nLorem ipsum dolor sit amet\nFY23: 5,924 Presentation Title Lorem ipsum dolor sit amet, consectetuer adipiscing elit\n"
+  },
+  "slide": {
+    "title": "PwC Content Element 21",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Text and large stat ",
+            "bold": false,
+            "font_size": 40
+          },
+          {
+            "text": "lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+            "bold": false,
+            "font_size": 40
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 366,
+          "w": 592,
+          "h": 256,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "6,176",
+            "bold": false,
+            "font_size": 86,
+            "color": "#FFFFFF"
+          }
+        ],
+        "box": {
+          "x": 747,
+          "y": 42,
+          "w": 491,
+          "h": 311,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet",
+            "bold": false,
+            "font_size": 86,
+            "color": "#FFFFFF"
+          }
+        ],
+        "box": {
+          "x": 747,
+          "y": 42,
+          "w": 491,
+          "h": 311,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "FY23: 5,924",
+            "bold": false,
+            "font_size": 86,
+            "color": "#FFFFFF"
+          }
+        ],
+        "box": {
+          "x": 747,
+          "y": 42,
+          "w": 491,
+          "h": 311,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 365,
+          "w": 289,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 365,
+          "w": 289,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

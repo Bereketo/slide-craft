@@ -1,0 +1,757 @@
+{
+  "metadata": {
+    "element_number": 15,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Presentation Title Bios—four people Name Surname\nJob title\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Name Surname\nJob title\nLorem ipsum dolor sit amet, co"
+  },
+  "slide": {
+    "title": "PwC Content Element 15",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Bios—four people",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 135,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 345,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 345,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 345,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 647,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 366,
+          "w": 289,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

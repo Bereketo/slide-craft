@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "element_number": 95,
+    "category": "content",
+    "description": "Standard content layout",
+    "extracted_text": "PowerPoint keyboard shortcuts Presentation Title Source: https://support.microsoft.com \u000bFor Mac: https://support.microsoft.com/en-us/office/new-keyboard-shortcuts-in-powerpoint-for-office-365-for-mac-"
+  },
+  "slide": {
+    "title": "PwC Content Element 95",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "PowerPoint keyboard shortcuts",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Source: ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "https://support.microsoft.com",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "For Mac: ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "https://support.microsoft.com/en-us/office/new-keyboard-shortcuts-in-powerpoint-for-office-365-for-mac-5df4f672-e992-4aa2-863f-147433932ff9",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 11
+          }
+        ],
+        "box": {
+          "x": 0,
+          "y": 605,
+          "w": 1134,
+          "h": 114,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

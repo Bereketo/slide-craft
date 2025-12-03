@@ -1,0 +1,320 @@
+{
+  "metadata": {
+    "element_number": 42,
+    "category": "chart",
+    "description": "Chart or graph layout",
+    "extracted_text": "Gantt chart Presentation Title Lorem ipsum Lorem ipsum Lorem ipsum Title column Title column Title column Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"
+  },
+  "slide": {
+    "title": "PwC Content Element 42",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Gantt chart",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 377,
+          "y": 269,
+          "w": 118,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 606,
+          "y": 229,
+          "w": 133,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 773,
+          "y": 185,
+          "w": 210,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title column",
+            "bold": true,
+            "font_size": 14,
+            "font_family": "+mn-lt"
+          }
+        ],
+        "box": {
+          "x": -4,
+          "y": 225,
+          "w": 136,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title column",
+            "bold": true,
+            "font_size": 14,
+            "font_family": "+mn-lt"
+          }
+        ],
+        "box": {
+          "x": -4,
+          "y": 363,
+          "w": 136,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title column",
+            "bold": true,
+            "font_size": 14,
+            "font_family": "+mn-lt"
+          }
+        ],
+        "box": {
+          "x": -27,
+          "y": 524,
+          "w": 181,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 436,
+          "y": 316,
+          "w": 118,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 535,
+          "y": 362,
+          "w": 238,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 750,
+          "y": 408,
+          "w": 353,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 436,
+          "y": 450,
+          "w": 118,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 256,
+          "y": 505,
+          "w": 133,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 606,
+          "y": 544,
+          "w": 262,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 389,
+          "y": 593,
+          "w": 245,
+          "h": 44,
+          "unit": "px"
+        },
+        "style": {
+          "align": "center"
+        }
+      }
+    ]
+  }
+}

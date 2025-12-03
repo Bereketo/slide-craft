@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "element_number": 86,
+    "category": "table",
+    "description": "Table or data layout",
+    "extracted_text": "Four brand table styles programmed in templates Presentation Title Select an existing table, then in the “Table Design” tab, choose one of the four options in the “Custom” area.\nBrand Tables 1 and 2 w"
+  },
+  "slide": {
+    "title": "PwC Content Element 86",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Four brand table styles programmed in templates",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Select an existing table, then in the “Table Design” tab, choose one of the four options in the “Custom” area.",
+            "bold": true,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 41,
+          "y": 204,
+          "w": 592,
+          "h": 216,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Brand Tables 1 and 2 with Header Rows active follow orange and black colours from the theme with a heavier rule below;",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " then if selected, totals are bold with shading.",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 41,
+          "y": 204,
+          "w": 592,
+          "h": 216,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Brand Tables 3 and 4 match tables 1 and 2 but have ",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "header, row, and/or column banding options available",
+            "bold": false,
+            "font_size": 16,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 41,
+          "y": 204,
+          "w": 592,
+          "h": 216,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_86_placeholder.png",
+        "alt": "Element image 86",
+        "box": {
+          "x": 645,
+          "y": 206,
+          "w": 576,
+          "h": 199,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 1",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 427,
+          "w": 272,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 2",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 344,
+          "y": 427,
+          "w": 272,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 3",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 429,
+          "w": 272,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 4",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 429,
+          "w": 272,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

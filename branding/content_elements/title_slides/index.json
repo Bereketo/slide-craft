@@ -1,0 +1,157 @@
+{
+  "layout_type": "title_slides",
+  "description": "Title and cover slides for presentations",
+  "total_elements": 25,
+  "elements": [
+    {
+      "id": 1,
+      "file": "element_01_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 2,
+      "file": "element_02_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 19,
+      "file": "element_19_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 20,
+      "file": "element_20_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 41,
+      "file": "element_41_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 42,
+      "file": "element_42_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 43,
+      "file": "element_43_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 44,
+      "file": "element_44_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 45,
+      "file": "element_45_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 46,
+      "file": "element_46_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 47,
+      "file": "element_47_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 48,
+      "file": "element_48_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 49,
+      "file": "element_49_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 50,
+      "file": "element_50_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 51,
+      "file": "element_51_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 52,
+      "file": "element_52_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 53,
+      "file": "element_53_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 60,
+      "file": "element_60_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 62,
+      "file": "element_62_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 63,
+      "file": "element_63_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 69,
+      "file": "element_69_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 70,
+      "file": "element_70_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 82,
+      "file": "element_82_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 84,
+      "file": "element_84_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    },
+    {
+      "id": 85,
+      "file": "element_85_chart.json",
+      "category": "chart",
+      "description": "Chart or graph layout"
+    }
+  ]
+}

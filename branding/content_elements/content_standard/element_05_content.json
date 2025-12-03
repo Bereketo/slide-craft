@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "element_number": 5,
+    "category": "content",
+    "description": "Standard content layout",
+    "extracted_text": "Intro title Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud "
+  },
+  "slide": {
+    "title": "PwC Content Element 5",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Intro title",
+            "bold": false,
+            "font_size": 36
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 420,
+          "w": 403,
+          "h": 149,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "tincidunt",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "laoreet",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " dolore magna ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "aliquam",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "erat",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "volutpat",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ". Ut ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "wisi",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "enim",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ad minim ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "veniam",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "quis",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nostrud",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "exerci",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "tation",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "ullamcorper",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "suscipit",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "lobortis",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nisl",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "ut",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "aliquip",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ex ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "ea",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "commodo",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "consequat",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ". Duis autem ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "vel",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "eum",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "iriure",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " in ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "hendrerit",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " in ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "vulputate",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "velit",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "esse",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "molestie",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "consequat",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "vel",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " illum dolore ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "eu",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "feugiat",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nulla",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "facilisis",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " at ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "vero",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " eros et ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "accumsan",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " et ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "iusto",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "odio",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "dignissim",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " qui ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "blandit",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "praesent",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "luptatum",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "zzril",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "delenit",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "augue",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "duis",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " dolore ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "te",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "feugait",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nulla",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "facilisi",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 42,
+          "w": 592,
+          "h": 323,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 848,
+          "y": 539,
+          "w": 390,
+          "h": 84,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 848,
+          "y": 539,
+          "w": 390,
+          "h": 84,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

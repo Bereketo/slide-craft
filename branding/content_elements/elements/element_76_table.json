@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "element_number": 76,
+    "category": "table",
+    "description": "Table or data layout",
+    "extracted_text": "Thank you © [YYYY] PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see www.pwc.com/structure for furthe"
+  },
+  "slide": {
+    "title": "PwC Content Element 76",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Thank you",
+            "bold": false,
+            "font_size": 66
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 696,
+          "h": 155,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "© ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "[YYYY] ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "PwC. All rights reserved",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": ". PwC ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "refers to the ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "PwC network and/or one or more ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "of ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "its ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "member firms, ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "each of which ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "is a separate legal entity. ",
+            "bold": false,
+            "font_size": 11
+          },
+          {
+            "text": "Please see www.pwc.com/structure for further details. ",
+            "bold": false,
+            "font_size": 11
+          }
+        ],
+        "box": {
+          "x": 545,
+          "y": 506,
+          "w": 693,
+          "h": 173,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "READ AND DELETE THIS SHAPE/TEXT BEFORE USING",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 544,
+          "y": 0,
+          "w": 735,
+          "h": 204,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "‘Thank you’ and the legal text are editable on this slide. ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 544,
+          "y": 0,
+          "w": 735,
+          "h": 204,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "The disclaimer below is a ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "generic disclaimer for Multi-Territory / Global",
+            "bold": true,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "documents that will be used in more than one member firm or territory, or on a global basis. Check with your OGC or Risk Management for any further disclaimers that are needed.",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 544,
+          "y": 0,
+          "w": 735,
+          "h": 204,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Also see the ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          },
+          {
+            "text": "Network Description and Copyright ",
+            "bold": false,
+            "font_size": 12,
+            "font_family": "Georgia"
+          }
+        ],
+        "box": {
+          "x": 544,
+          "y": 0,
+          "w": 735,
+          "h": 204,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

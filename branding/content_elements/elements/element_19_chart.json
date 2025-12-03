@@ -1,0 +1,947 @@
+{
+  "metadata": {
+    "element_number": 19,
+    "category": "chart",
+    "description": "Chart or graph layout",
+    "extracted_text": "Presentation Title Team chart Name\nJob title\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod\n Firstname Lastname\nTitle\n Firstname Lastname\nTitle\n Firstname Last"
+  },
+  "slide": {
+    "title": "PwC Content Element 19",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Team chart",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 135,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 365,
+          "w": 219,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 365,
+          "w": 219,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 365,
+          "w": 219,
+          "h": 257,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 415,
+          "y": 196,
+          "w": 183,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 415,
+          "y": 196,
+          "w": 183,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 312,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 312,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 398,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 398,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 483,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 483,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 569,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 398,
+          "y": 569,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 729,
+          "y": 197,
+          "w": 183,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 729,
+          "y": 197,
+          "w": 183,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 313,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 313,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 399,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 399,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 484,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 484,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 569,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 713,
+          "y": 569,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1044,
+          "y": 197,
+          "w": 183,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1044,
+          "y": 197,
+          "w": 183,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 313,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 313,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 399,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 399,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 484,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 484,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Firstname",
+            "bold": false,
+            "font_size": 12
+          },
+          {
+            "text": " Lastname",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 569,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Title",
+            "bold": false,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 1027,
+          "y": 569,
+          "w": 201,
+          "h": 74,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Workstream",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 310,
+          "y": 150,
+          "w": 287,
+          "h": 33,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Workstream",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 623,
+          "y": 150,
+          "w": 287,
+          "h": 33,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Workstream",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 937,
+          "y": 150,
+          "w": 287,
+          "h": 33,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

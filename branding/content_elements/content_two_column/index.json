@@ -1,0 +1,31 @@
+{
+  "layout_type": "content_two_column",
+  "description": "Two-column content layouts",
+  "total_elements": 4,
+  "elements": [
+    {
+      "id": 9,
+      "file": "element_09_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    },
+    {
+      "id": 10,
+      "file": "element_10_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    },
+    {
+      "id": 11,
+      "file": "element_11_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    },
+    {
+      "id": 12,
+      "file": "element_12_two_column.json",
+      "category": "two_column",
+      "description": "Two-column layout"
+    }
+  ]
+}

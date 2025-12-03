@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "element_number": 84,
+    "category": "chart",
+    "description": "Chart or graph layout",
+    "extracted_text": "How to create a chart template Presentation Title If a chart that you have created would be useful in future, \u000byou can create a custom chart template from it. \nRight-click on the frame of the chart an"
+  },
+  "slide": {
+    "title": "PwC Content Element 84",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "How to create a chart template",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "If a chart that you have created would be useful in future, ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "you can create a custom chart template from it. ",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 205,
+          "w": 591,
+          "h": 342,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Right-click on the frame of the chart and choose Save as Template",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 205,
+          "w": 591,
+          "h": 342,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "PowerPoint will auto-navigate to the correct chart template folder. You can rename the chart template to be more descriptive, but make sure you keep the .crtx at the end of the file name",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 205,
+          "w": 591,
+          "h": 342,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_84_placeholder.png",
+        "alt": "Element image 84",
+        "box": {
+          "x": 782,
+          "y": 39,
+          "w": 379,
+          "h": 289,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      }
+    ]
+  }
+}

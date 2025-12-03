@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "element_number": 87,
+    "category": "table",
+    "description": "Table or data layout",
+    "extracted_text": "Table design style options allow custom formats Presentation Title Table Style Options Via the “Table Design” tab that appears when a table is selected, add style by checking off the preset options. \n"
+  },
+  "slide": {
+    "title": "PwC Content Element 87",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Table design style options allow custom formats",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Table Style Options",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 48,
+          "y": 486,
+          "w": 279,
+          "h": 35,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Via the “Table Design” tab that appears when a table is selected, add style by checking off the preset options. ",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 514,
+          "w": 616,
+          "h": 159,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "In the examples above, options are added to change table look.",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 514,
+          "w": 616,
+          "h": 159,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Note: Custom Tables 1 and 2 have no banding colours available; use tables 3 or 4 when banded rows or columns are needed",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 514,
+          "w": 616,
+          "h": 159,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 1",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 41,
+          "y": 204,
+          "w": 240,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_87_placeholder.png",
+        "alt": "Element image 87",
+        "box": {
+          "x": 48,
+          "y": 400,
+          "w": 183,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 1",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 344,
+          "y": 205,
+          "w": 240,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_87_placeholder.png",
+        "alt": "Element image 87",
+        "box": {
+          "x": 350,
+          "y": 399,
+          "w": 184,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 1",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 204,
+          "w": 240,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_87_placeholder.png",
+        "alt": "Element image 87",
+        "box": {
+          "x": 652,
+          "y": 399,
+          "w": 183,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "BRAND TABLE 1",
+            "bold": true,
+            "font_size": 12
+          }
+        ],
+        "box": {
+          "x": 949,
+          "y": 204,
+          "w": 240,
+          "h": 20,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_87_placeholder.png",
+        "alt": "Element image 87",
+        "box": {
+          "x": 954,
+          "y": 399,
+          "w": 183,
+          "h": 57,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      }
+    ]
+  }
+}

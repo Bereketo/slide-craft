@@ -1,0 +1,25 @@
+{
+  "layout_type": "content_image",
+  "description": "Image-focused content layouts",
+  "total_elements": 3,
+  "elements": [
+    {
+      "id": 17,
+      "file": "element_17_image_layout.json",
+      "category": "image_layout",
+      "description": "Image-focused layout"
+    },
+    {
+      "id": 18,
+      "file": "element_18_image_layout.json",
+      "category": "image_layout",
+      "description": "Image-focused layout"
+    },
+    {
+      "id": 80,
+      "file": "element_80_image_layout.json",
+      "category": "image_layout",
+      "description": "Image-focused layout"
+    }
+  ]
+}

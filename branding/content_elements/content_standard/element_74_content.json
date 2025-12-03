@@ -1,0 +1,438 @@
+{
+  "metadata": {
+    "element_number": 74,
+    "category": "content",
+    "description": "Standard content layout",
+    "extracted_text": "Presentation Title Let’s talk Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh eu"
+  },
+  "slide": {
+    "title": "PwC Content Element 74",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Let’s talk",
+            "bold": false,
+            "font_size": 44
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 312,
+          "w": 390,
+          "h": 95,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " Lorem ipsum ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "dolor",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " sit ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "amet",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "consectetuer",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "adipiscing",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "elit",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ", ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "sed",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "diam",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nonummy",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "nibh",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": " ",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": "euismod",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "font_size": 18,
+            "font_family": "+mj-lt"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 420,
+          "w": 390,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 420,
+          "w": 251,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 420,
+          "w": 251,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Email",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 646,
+          "y": 420,
+          "w": 251,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Name Surname",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 419,
+          "w": 251,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Job title",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 419,
+          "w": 251,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Email",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 948,
+          "y": 419,
+          "w": 251,
+          "h": 203,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

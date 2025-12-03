@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "element_number": 78,
+    "category": "blank",
+    "description": "Blank or minimal layout",
+    "extracted_text": "Conclusion 2 Subtitle text"
+  },
+  "slide": {
+    "title": "PwC Content Element 78",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Conclusion 2",
+            "bold": false,
+            "font_size": 66,
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 150,
+          "w": 894,
+          "h": 202,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Subtitle text",
+            "bold": true,
+            "font_size": 24,
+            "color": "#000000"
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 366,
+          "w": 894,
+          "h": 149,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

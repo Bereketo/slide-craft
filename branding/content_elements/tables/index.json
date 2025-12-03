@@ -1,0 +1,91 @@
+{
+  "layout_type": "tables",
+  "description": "Table and data grid layouts",
+  "total_elements": 14,
+  "elements": [
+    {
+      "id": 54,
+      "file": "element_54_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 55,
+      "file": "element_55_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 56,
+      "file": "element_56_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 57,
+      "file": "element_57_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 75,
+      "file": "element_75_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 76,
+      "file": "element_76_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 86,
+      "file": "element_86_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 87,
+      "file": "element_87_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 88,
+      "file": "element_88_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 89,
+      "file": "element_89_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 90,
+      "file": "element_90_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 91,
+      "file": "element_91_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 92,
+      "file": "element_92_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    },
+    {
+      "id": 93,
+      "file": "element_93_table.json",
+      "category": "table",
+      "description": "Table or data layout"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "element_number": 73,
+    "category": "simple",
+    "description": "Simple layout",
+    "extracted_text": "Closing slides 4 Presentation Title"
+  },
+  "slide": {
+    "title": "PwC Content Element 73",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Closing slides",
+            "bold": false,
+            "font_size": 48
+          }
+        ],
+        "box": {
+          "x": 41,
+          "y": 363,
+          "w": 592,
+          "h": 272,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "4",
+            "bold": false,
+            "font_size": 350,
+            "color": "#D04A02"
+          }
+        ],
+        "box": {
+          "x": 860,
+          "y": 60,
+          "w": 363,
+          "h": 452,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}

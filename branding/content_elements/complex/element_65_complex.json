@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "element_number": 65,
+    "category": "complex",
+    "description": "Complex multi-element layout",
+    "extracted_text": "Pictograms Use pictograms for situations where an idea or concept needs to be portrayed through a visual element. \nIf your concept is more complex, you should look at illustrations. \nPictograms are co"
+  },
+  "slide": {
+    "title": "PwC Content Element 65",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Pictograms",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 135,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Use pictograms for situations where an idea or concept needs to be portrayed through a visual element. ",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "If your concept is more complex, you should look at illustrations. ",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Pictograms are colored with a Tangerine to Orange gradient. They can be placed over white or the lightest tints of orange and gray.",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "While pictograms can be scaled up, do not scale pictograms smaller than seen on this page. ",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Do not create your own pictograms. If you would like to request a new pictogram, contact the Brand Support Hub.",
+            "bold": false,
+            "font_size": 16
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 204,
+          "w": 693,
+          "h": 420,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 770,
+          "y": 185,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 949,
+          "y": 185,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 1125,
+          "y": 185,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 770,
+          "y": 321,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 949,
+          "y": 321,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 1125,
+          "y": 321,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 770,
+          "y": 480,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 949,
+          "y": 480,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      },
+      {
+        "type": "image",
+        "src": "images/element_65_placeholder.png",
+        "alt": "Element image 65",
+        "box": {
+          "x": 1125,
+          "y": 480,
+          "w": 96,
+          "h": 96,
+          "unit": "px"
+        },
+        "object_fit": "cover"
+      }
+    ]
+  }
+}

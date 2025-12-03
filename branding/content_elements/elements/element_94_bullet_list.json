@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "element_number": 94,
+    "category": "bullet_list",
+    "description": "Bullet point or list layout",
+    "extracted_text": "Accessibility check Presentation Title It’s important to run an accessibility check on your presentations so that people with low or no vision can access it.  In the illustration to the right, note ho"
+  },
+  "slide": {
+    "title": "PwC Content Element 94",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Accessibility check",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 42,
+          "w": 1196,
+          "h": 96,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation Title",
+            "bold": false,
+            "font_size": 10
+          }
+        ],
+        "box": {
+          "x": 112,
+          "y": 682,
+          "w": 925,
+          "h": 16,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "It’s important to run an accessibility check on your presentations so that people with low or no vision can access it. ",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 40,
+          "y": 204,
+          "w": 350,
+          "h": 95,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "In the illustration to the right, note how each item is listed in order so the screen reader will read them appropriately.",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 46,
+          "y": 534,
+          "w": 290,
+          "h": 89,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      }
+    ]
+  }
+}
