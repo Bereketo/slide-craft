@@ -1,0 +1,533 @@
+{
+  "total_covers": 75,
+  "categories": {
+    "title_subtitle": 75
+  },
+  "covers": [
+    {
+      "id": 1,
+      "file": "cover_01_title_subtitle.json",
+      "image": "cover_01.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a business meeting or discussion, highlighting collaboration and communication. The dominant colors are neutral whites and grays with a vibrant pop of orange, creating a modern and energetic mood. This cover slide is best suited for corporate presentations, workshops, or any professional setting focused on teamwork and innovation."
+    },
+    {
+      "id": 2,
+      "file": "cover_02_title_subtitle.json",
+      "image": "cover_02.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the slide is a business meeting, featuring two professionals engaged in conversation within a modern office space. The dominant colors are neutral grays and whites, accented by a vibrant orange, creating a fresh and collaborative mood. This slide is best suited for corporate presentations, particularly those focused on teamwork, innovation, or modern workplace solutions."
+    },
+    {
+      "id": 3,
+      "file": "cover_03_title_subtitle.json",
+      "image": "cover_03.jpg",
+      "category": "title_subtitle",
+      "description": "The image features a laboratory setting, emphasizing a scientific or research theme. The dominant colors are bright white and orange, creating a clean and contemporary mood that conveys innovation and professionalism. This cover slide is best suited for presentations related to healthcare, scientific research, or technology development."
+    },
+    {
+      "id": 4,
+      "file": "cover_04_title_subtitle.json",
+      "image": "cover_04.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a joyful interaction between a child and an adult on a beach, emphasizing themes of happiness and family. The dominant colors are soft neutrals with a striking orange accent, creating a warm and inviting mood. This cover slide is best suited for presentations related to lifestyle, wellness, family-oriented projects, or community-focused initiatives."
+    },
+    {
+      "id": 5,
+      "file": "cover_05_title_subtitle.json",
+      "image": "cover_05.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the slide depicts a modern agricultural environment, focusing on two individuals in white lab coats interacting with technology in a greenhouse. The dominant colors include fresh greens and clean white tones, evoking a sense of innovation and sustainability. This cover is best suited for presentations related to agricultural technology, sustainable farming practices, or research in food innovation."
+    },
+    {
+      "id": 6,
+      "file": "cover_06_title_subtitle.json",
+      "image": "cover_06.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme is sustainable transportation, specifically electric vehicles, featuring a parent and child interacting with an EV charging station. The dominant colors are soft neutrals combined with bright orange accents, creating a warm and approachable mood. This cover is ideal for presentations related to environmental initiatives, electric vehicle technology, or family-oriented energy solutions."
+    },
+    {
+      "id": 7,
+      "file": "cover_07_title_subtitle.json",
+      "image": "cover_07.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the slide is a collaborative business meeting, showcasing two professionals engaged in discussion over a laptop. The dominant colors include neutral tones with an energetic splash of orange, creating a modern and dynamic mood. This cover is best suited for corporate presentations, team strategy meetings, or workshops aimed at collaboration and innovation."
+    },
+    {
+      "id": 8,
+      "file": "cover_08_title_subtitle.json",
+      "image": "cover_08.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is technology, specifically showcasing human interaction with robotics. The dominant colors include cool gray tones complemented by vibrant orange accents, creating a modern and innovative mood. This cover slide is best suited for tech startups or presentations focused on automation, artificial intelligence, or advanced manufacturing."
+    },
+    {
+      "id": 9,
+      "file": "cover_09_title_subtitle.json",
+      "image": "cover_09.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is an urban scene featuring a person riding an electric scooter by a waterfront, highlighting themes of mobility and modern lifestyle. The dominant colors include soft blues and greens from the water and nature, contrasted with vibrant orange accents, creating a fresh and dynamic mood. This cover is ideal for presentations focused on urban transportation, sustainability, or innovation in mobility solutions."
+    },
+    {
+      "id": 10,
+      "file": "cover_10_title_subtitle.json",
+      "image": "cover_10.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the cover slide is a collaborative design process, featuring two individuals working on a model, suggesting a focus on architecture or urban development. The dominant colors are neutral tones with a striking orange accent, creating a modern and engaging mood. This background is best suited for presentations related to architecture, design projects, or innovative teamwork initiatives in creative fields."
+    },
+    {
+      "id": 11,
+      "file": "cover_11_title_subtitle.json",
+      "image": "cover_11.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is a collaborative business meeting, highlighting teamwork in a modern workspace. The dominant colors are neutral tones with vibrant orange accents, creating a professional yet energetic mood. This cover slide is ideal for corporate presentations or discussions focused on innovation and teamwork in dynamic environments."
+    },
+    {
+      "id": 12,
+      "file": "cover_12_title_subtitle.json",
+      "image": "cover_12.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a business meeting focused on data analysis, featuring two professionals engaging with a large screen displaying graphs and charts. The dominant colors are professional gray tones accented with vibrant orange, creating a dynamic and engaging mood. This cover slide is best suited for corporate presentations, particularly in finance or analytics, where data visualization is key."
+    },
+    {
+      "id": 13,
+      "file": "cover_13_title_subtitle.json",
+      "image": "cover_13.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the slide is agriculture and innovation, focusing on a greenhouse setting with professionals discussing plants. The dominant colors include fresh greens and a vibrant orange accent, creating an energetic and modern mood. This cover is best suited for presentations related to agricultural technology, sustainable farming, or environmental initiatives."
+    },
+    {
+      "id": 14,
+      "file": "cover_14_title_subtitle.json",
+      "image": "cover_14.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a collaborative environment in a medical or laboratory setting, emphasizing teamwork and advanced technology. The dominant colors include clean white tones with vibrant orange accents, creating a modern and energetic mood. This cover is best suited for presentations related to healthcare innovations, medical research, or educational programs in the sciences."
+    },
+    {
+      "id": 15,
+      "file": "cover_15_title_subtitle.json",
+      "image": "cover_15.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the PowerPoint cover slide is a collaborative work setting featuring two women engaged in a discussion over a laptop, reflecting a theme of teamwork and productivity. The dominant colors include a mix of soft neutrals with a vibrant orange accent, conveying a professional yet energetic mood. This design is best suited for corporate presentations, team-building workshops, or any professional setting that emphasizes collaboration and innovation."
+    },
+    {
+      "id": 16,
+      "file": "cover_16_title_subtitle.json",
+      "image": "cover_16.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a business meeting, featuring two professionals engaged in a discussion while using tablets in a sleek, modern setting. The dominant colors are neutral whites and grays, accented by a vibrant orange, creating a dynamic and professional mood. This slide is best suited for corporate presentations, particularly those focused on innovation or collaboration in a modern workplace environment."
+    },
+    {
+      "id": 17,
+      "file": "cover_17_title_subtitle.json",
+      "image": "cover_17.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is a professional business meeting set in a modern workspace, showcasing collaboration and discussion. Dominant colors include neutral grays and whites, complemented by a bold orange accent that conveys a dynamic and energetic mood. This cover is best suited for corporate presentations or discussions focused on project management, innovation in industry, or team strategy sessions."
+    },
+    {
+      "id": 18,
+      "file": "cover_18_title_subtitle.json",
+      "image": "cover_18.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a professional interaction in a modern workspace, highlighting collaboration and technology. The dominant colors are neutral tones with vibrant orange accents, creating a contemporary and inviting mood. This cover slide is best suited for corporate presentations focused on innovation, teamwork, or technology advancements."
+    },
+    {
+      "id": 19,
+      "file": "cover_19_title_subtitle.json",
+      "image": "cover_19.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a professional business meeting, featuring two individuals engaged in a handshake. The dominant colors are neutral tones complemented by a vibrant orange accent, creating a professional yet energetic mood. This cover slide is best suited for corporate presentations, particularly those focused on teamwork, partnerships, or business strategy."
+    },
+    {
+      "id": 20,
+      "file": "cover_20_title_subtitle.json",
+      "image": "cover_20.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the cover slide is technology, specifically focusing on automation and robotics in a professional setting. The dominant colors include cool grays and whites, complemented by an energetic orange accent, creating a modern and innovative mood. This background is ideal for corporate presentations related to manufacturing, tech startups, or discussions on automation and industrial advancements."
+    },
+    {
+      "id": 21,
+      "file": "cover_21_title_subtitle.json",
+      "image": "cover_21.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a business meeting taking place in a modern office environment. The dominant colors are neutral tones with a striking orange accent, creating a professional yet energetic mood. This cover slide is best suited for corporate presentations, particularly those focused on teamwork, collaboration, or strategic planning."
+    },
+    {
+      "id": 22,
+      "file": "cover_22_title_subtitle.json",
+      "image": "cover_22.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject is a modern industrial setting, highlighting collaboration and teamwork, likely focused on engineering or manufacturing. The dominant colors are clean whites with an energetic orange accent, creating a professional yet dynamic mood. This cover is best suited for corporate presentations in the manufacturing or technology sectors, emphasizing innovation and operational efficiency."
+    },
+    {
+      "id": 23,
+      "file": "cover_23_title_subtitle.json",
+      "image": "cover_23.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is leisure and relaxation, featuring a casual setting with a man watching a sports game. The dominant colors are light and airy, with a focus on natural blues from the sea and bright orange accents that add an energetic touch. This background would be best suited for presentations related to lifestyle, entertainment, or sports marketing."
+    },
+    {
+      "id": 24,
+      "file": "cover_24_title_subtitle.json",
+      "image": "cover_24.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the cover slide is a business meeting, featuring professionals in a corporate setting. The dominant colors include neutral tones with a striking orange accent, creating a professional yet dynamic mood. This slide is best suited for corporate presentations or business proposals, conveying a sense of collaboration and forward momentum."
+    },
+    {
+      "id": 25,
+      "file": "cover_25_title_subtitle.json",
+      "image": "cover_25.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the cover slide focuses on technology and collaboration within a modern workspace, likely related to IT or data management. The dominant colors feature a clean, professional palette with whites and grays, accented by a vibrant orange, creating a mood that is both sleek and dynamic. This design is best suited for tech startups, corporate presentations in the tech industry, or discussions about innovative solutions and teamwork in a professional setting."
+    },
+    {
+      "id": 26,
+      "file": "cover_26_title_subtitle.json",
+      "image": "cover_26.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a technological workspace focused on aerospace innovation and research. Dominant colors include cool grays and blues complemented by vibrant orange accents, creating a modern and professional mood. This background is best suited for presentations related to aerospace engineering, tech startups, or scientific advancements."
+    },
+    {
+      "id": 27,
+      "file": "cover_27_title_subtitle.json",
+      "image": "cover_27.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a rehabilitation setting, focusing on physical therapy with a patient and healthcare professionals engaged in therapy. The dominant colors include cool tones like blues and whites, complemented by a vibrant orange accent, creating a professional yet energetic mood. This cover slide is ideal for presentations related to healthcare, rehabilitation technologies, or medical innovations."
+    },
+    {
+      "id": 28,
+      "file": "cover_28_title_subtitle.json",
+      "image": "cover_28.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is a laboratory setting focused on scientific research and collaboration. It features a bright and clean environment with dominant white tones, accented by vibrant orange elements, creating a modern and professional mood. This cover is best suited for presentations related to healthcare, scientific innovation, or educational projects."
+    },
+    {
+      "id": 29,
+      "file": "cover_29_title_subtitle.json",
+      "image": "cover_29.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a telecommunications professional working near a cell tower, highlighting themes of technology and innovation. It features a bright color palette with dominant orange accents against a calm blue sky, creating an energetic yet professional mood. This cover is best suited for presentations related to telecommunications, technology advancements, or infrastructure projects."
+    },
+    {
+      "id": 30,
+      "file": "cover_30_title_subtitle.json",
+      "image": "cover_30.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a business meeting environment, showcasing a professional woman engaged with a laptop. The dominant colors are neutral tones with a striking orange accent, creating a modern and energetic mood. This cover is best suited for corporate presentations, particularly those focusing on teamwork, strategy, or innovation."
+    },
+    {
+      "id": 31,
+      "file": "cover_31_title_subtitle.json",
+      "image": "cover_31.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme is a business meeting, captured in a modern office setting. The dominant colors include professional light tones with a striking orange accent, conveying a confident and innovative mood. This cover slide is best suited for corporate presentations, particularly in sectors focused on collaboration and strategy."
+    },
+    {
+      "id": 32,
+      "file": "cover_32_title_subtitle.json",
+      "image": "cover_32.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the slide is aviation maintenance, showcasing technicians working on an aircraft. The dominant colors are cool blues and a vibrant orange accent, creating a professional yet energetic mood. This background is best suited for presentations in the aerospace industry, training programs, or technical workshops focused on aviation and engineering."
+    },
+    {
+      "id": 33,
+      "file": "cover_33_title_subtitle.json",
+      "image": "cover_33.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is leisure and relaxation in a desert setting, captured by a couple walking near a serene pool. The dominant colors include warm earthy tones complemented by a vibrant orange, creating a mood that is both inviting and tranquil. This cover is best suited for lifestyle presentations, travel marketing, or wellness projects, emphasizing rejuvenation and escape."
+    },
+    {
+      "id": 34,
+      "file": "cover_34_title_subtitle.json",
+      "image": "cover_34.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is an educational setting, depicting a teacher interacting with students, emphasizing learning and engagement. The dominant colors include bright orange and neutral tones, creating a vibrant yet professional mood. This background is best suited for educational presentations, workshops, or training sessions, effectively conveying a focus on collaboration and knowledge sharing."
+    },
+    {
+      "id": 35,
+      "file": "cover_35_title_subtitle.json",
+      "image": "cover_35.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the slide is a business meeting, featuring two professionals engaged in discussion. The dominant colors are light and neutral tones, complemented by a bold orange accent, creating a modern and energetic mood. This cover is best suited for corporate presentations, particularly focused on teamwork, collaboration, or planning sessions."
+    },
+    {
+      "id": 36,
+      "file": "cover_36_title_subtitle.json",
+      "image": "cover_36.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject/theme is a collaborative business meeting, showcasing two professionals engaged in discussion. The dominant colors include neutral tones with a striking orange accent, creating a warm and energetic mood. This cover is best suited for corporate presentations aimed at fostering teamwork and innovation."
+    },
+    {
+      "id": 37,
+      "file": "cover_37_title_subtitle.json",
+      "image": "cover_37.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is a modern corporate environment, showcasing a man engaging with a digital kiosk in a well-designed lobby. The dominant colors are neutral tones with a striking orange accent, creating a professional yet vibrant mood. This cover slide is ideal for corporate presentations or business-focused discussions, particularly in industries related to technology or innovation."
+    },
+    {
+      "id": 38,
+      "file": "cover_38_title_subtitle.json",
+      "image": "cover_38.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a laboratory setting, emphasizing scientific research and experimentation. Dominated by clean white and light gray tones, with a striking orange accent, the mood is modern and professional. This cover slide is best suited for presentations in the fields of science, healthcare, or research innovation."
+    },
+    {
+      "id": 39,
+      "file": "cover_39_title_subtitle.json",
+      "image": "cover_39.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is a business meeting set against a modern cityscape. It features a professional color palette with cool blue tones and a vibrant orange accent, creating an energetic and contemporary mood. This cover slide is best suited for corporate presentations, especially those focused on business strategies or urban development."
+    },
+    {
+      "id": 40,
+      "file": "cover_40_title_subtitle.json",
+      "image": "cover_40.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a healthcare interaction, featuring a medical professional and a patient, highlighting themes of care and support in a clinical environment. The dominant colors are soft whites and blues, creating a calm and trustworthy mood, while the orange accents add a touch of warmth and energy. This cover is best suited for presentations related to healthcare services, patient care initiatives, or medical technology innovations."
+    },
+    {
+      "id": 41,
+      "file": "cover_41_title_subtitle.json",
+      "image": "cover_41.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image features healthcare professionals engaged in conversation, highlighting a medical or clinical environment. Dominant colors include a clean, professional palette with white and orange accents, evoking a modern and optimistic mood. This cover slide is best suited for presentations related to healthcare initiatives, medical conferences, or hospital management discussions."
+    },
+    {
+      "id": 42,
+      "file": "cover_42_title_subtitle.json",
+      "image": "cover_42.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a business meeting set in an elegant, marble-clad interior, suggesting a formal and professional environment. The dominant colors are neutral tones of gray and white, contrasted with a vibrant orange accent, creating a sophisticated yet energetic mood. This cover slide is best suited for corporate presentations, particularly in industries like finance, law, or real estate, where a professional atmosphere is essential."
+    },
+    {
+      "id": 43,
+      "file": "cover_43_title_subtitle.json",
+      "image": "cover_43.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image centers around automotive engineering, showcasing two individuals working on a high-performance vehicle. The dominant colors feature a sleek gray and contrasting vibrant orange, conveying a modern and energetic mood. This cover slide is best suited for presentations related to automotive design, engineering innovations, or technology in transportation."
+    },
+    {
+      "id": 44,
+      "file": "cover_44_title_subtitle.json",
+      "image": "cover_44.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme is a military or defense context, showcasing soldiers engaged in technology use. The dominant colors include earthy tones of green and gray, complemented by a bold orange accent, creating a serious yet innovative mood. This cover slide is best suited for presentations related to defense technology, military strategies, or any projects focused on innovation within the armed forces."
+    },
+    {
+      "id": 45,
+      "file": "cover_45_title_subtitle.json",
+      "image": "cover_45.jpg",
+      "category": "title_subtitle",
+      "description": "Featuring a theme centered around agriculture and scientific research, the image showcases individuals in a greenhouse setting, emphasizing the intersection of technology and farming. The dominant colors include fresh greens and soft whites, creating a professional and optimistic mood. This cover slide is ideal for presentations related to agricultural innovation, biotechnology, or environmental sustainability initiatives."
+    },
+    {
+      "id": 46,
+      "file": "cover_46_title_subtitle.json",
+      "image": "cover_46.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a dynamic athlete in a wheelchair, symbolizing empowerment and inclusive sports. The dominant colors are a gradient of soft pink and warm orange, creating an energetic and inspiring mood. This cover is best suited for presentations focused on sports, inclusivity, or motivational themes, making it ideal for organizations promoting adaptive sports or diversity initiatives."
+    },
+    {
+      "id": 47,
+      "file": "cover_47_title_subtitle.json",
+      "image": "cover_47.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is the interaction between humans and technology, highlighting the potential of robotics. The dominant colors feature soft gradients of pink and orange, creating a modern and innovative mood. This cover is best suited for presentations focused on technology, AI developments, or future workplace concepts."
+    },
+    {
+      "id": 48,
+      "file": "cover_48_title_subtitle.json",
+      "image": "cover_48.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the cover slide is fitness and wellness, featuring a person exercising on a stationary bike. The dominant colors include soft gradients of pink and orange, creating a warm and energetic mood. This slide is best suited for presentations related to health, fitness programs, or wellness initiatives."
+    },
+    {
+      "id": 49,
+      "file": "cover_49_title_subtitle.json",
+      "image": "cover_49.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the cover slide is a professional collaboration, showcasing individuals engaged in a work-related discussion. The dominant colors are warm tones of peach and orange, creating an inviting and energetic mood. This design is best suited for corporate presentations or team meetings focused on innovation and teamwork."
+    },
+    {
+      "id": 50,
+      "file": "cover_50_title_subtitle.json",
+      "image": "cover_50.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is centered around growth and sustainability, illustrated by a hand holding a small plant. The dominant colors are soft pink and vibrant orange, evoking a sense of warmth and optimism. This cover is best suited for presentations focused on environmental initiatives, sustainability strategies, or eco-friendly projects."
+    },
+    {
+      "id": 51,
+      "file": "cover_51_title_subtitle.json",
+      "image": "cover_51.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the background image is technology, focusing on mobile device security. The dominant colors are soft gradient hues with a warm orange accent, creating a modern and approachable mood. This cover is best suited for presentations related to cybersecurity, app development, or tech innovations."
+    },
+    {
+      "id": 52,
+      "file": "cover_52_title_subtitle.json",
+      "image": "cover_52.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a person holding a smartphone, suggesting a theme related to technology and communication. The dominant colors include warm tones of orange and soft gradients, creating an inviting and modern mood. This cover slide is best suited for tech startups, mobile app presentations, or discussions around digital communication."
+    },
+    {
+      "id": 53,
+      "file": "cover_53_title_subtitle.json",
+      "image": "cover_53.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the cover slide features two individuals interacting with a large balloon, symbolizing creativity and innovation. The dominant colors are soft gradients of pink and orange, which evoke a warm and energetic mood. This design is best suited for creative projects, brainstorming sessions, or presentations focused on innovation and team collaboration."
+    },
+    {
+      "id": 54,
+      "file": "cover_54_title_subtitle.json",
+      "image": "cover_54.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the slide is a modern technology theme, featuring a person interacting with a digital device, conveying innovation and advancement. The dominant colors are soft gradients of warm orange and light hues, creating an inviting and upbeat mood. This cover is best suited for tech startups, product showcases, or presentations focusing on digital solutions and creativity."
+    },
+    {
+      "id": 55,
+      "file": "cover_55_title_subtitle.json",
+      "image": "cover_55.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a laboratory setting, featuring a scientist holding a flask, which emphasizes themes of research and innovation. The dominant colors are soft pink and white, with a contrasting vibrant orange accent, creating a mood that is both modern and engaging. This cover slide is best suited for presentations in the fields of science, healthcare, or education, particularly those focusing on research findings, experiments, or technological advancements in the scientific community."
+    },
+    {
+      "id": 56,
+      "file": "cover_56_title_subtitle.json",
+      "image": "cover_56.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the cover slide features a scientific research theme, highlighting professionals engaged in laboratory work. The dominant colors are soft gradients of pink and orange, creating a warm and inviting mood that conveys innovation and collaboration. This cover is best suited for presentations related to healthcare, scientific research, or educational content in the life sciences sector."
+    },
+    {
+      "id": 57,
+      "file": "cover_57_title_subtitle.json",
+      "image": "cover_57.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the cover slide is a business presentation, highlighting a professional setting with a speaker and a presentation board. The dominant colors are soft peach and vibrant orange, creating a warm and engaging mood while maintaining professionalism. This design is best suited for corporate presentations, particularly those focused on marketing strategies or team collaborations."
+    },
+    {
+      "id": 58,
+      "file": "cover_58_title_subtitle.json",
+      "image": "cover_58.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image features a business meeting scenario with two professionals discussing data on a screen. The dominant colors are warm hues of orange and subtle pinks, creating an inviting and energetic mood. This cover slide is best suited for corporate presentations or tech startups, particularly those focused on data analysis or team collaboration."
+    },
+    {
+      "id": 59,
+      "file": "cover_59_title_subtitle.json",
+      "image": "cover_59.jpg",
+      "category": "title_subtitle",
+      "description": "The image features a business meeting theme, showcasing two professionals engaged in discussion with a laptop and clipboard. The dominant colors are warm, with a gradient from soft peach to white, complemented by vibrant orange accents, creating an approachable and innovative mood. This cover slide is best suited for corporate presentations, especially in sectors focused on teamwork, collaboration, or technology-driven discussions."
+    },
+    {
+      "id": 60,
+      "file": "cover_60_title_subtitle.json",
+      "image": "cover_60.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is a professional business meeting, showcasing collaboration between two individuals. The dominant colors are soft pink and orange, giving a warm and energetic mood that conveys positivity and teamwork. This cover slide is best suited for corporate presentations focusing on strategy, innovation, or team dynamics."
+    },
+    {
+      "id": 61,
+      "file": "cover_61_title_subtitle.json",
+      "image": "cover_61.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the cover slide is professional collaboration, showcasing two individuals engaged in a discussion over a digital or printed presentation. The dominant colors are soft gradient tones of peach and white, accented by bold orange shapes, creating a modern and inviting mood. This design is best suited for corporate presentations, particularly those focused on teamwork, innovation, or technology solutions."
+    },
+    {
+      "id": 62,
+      "file": "cover_62_title_subtitle.json",
+      "image": "cover_62.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a collaborative business meeting, showcasing a diverse group of professionals engaged in discussion around a table. The dominant colors include soft pinks and vibrant oranges, creating a modern and energetic mood. This cover is best suited for corporate presentations that emphasize teamwork, innovation, and an inclusive work environment."
+    },
+    {
+      "id": 63,
+      "file": "cover_63_title_subtitle.json",
+      "image": "cover_63.jpg",
+      "category": "title_subtitle",
+      "description": "The theme of the slide centers around technology and automation, featuring a human interacting with a robotic arm. It incorporates soft gradients of peach and orange, creating a modern and innovative mood. This cover is best suited for tech startups or presentations focused on automation, robotics, and the future of work."
+    },
+    {
+      "id": 64,
+      "file": "cover_64_title_subtitle.json",
+      "image": "cover_64.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is technology, showcasing a hand holding a microchip, symbolizing innovation and advancement. The dominant colors are soft gradients of pink and orange, creating a modern and energetic mood. This cover is best suited for tech startup presentations, product launches, or discussions on advancements in technology."
+    },
+    {
+      "id": 65,
+      "file": "cover_65_title_subtitle.json",
+      "image": "cover_65.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is collaborative work or online learning, showcasing two individuals engaged in a productive session at a table. The dominant colors are soft pastels with gradients of pink and orange, conveying a warm and inviting mood. This cover slide is best suited for presentations focused on education, teamwork, or tech initiatives aimed at improving collaborative efforts."
+    },
+    {
+      "id": 66,
+      "file": "cover_66_title_subtitle.json",
+      "image": "cover_66.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the slide is a business meeting, showcasing collaboration and discussion among professionals. The dominant colors are soft pastel tones with a prominent orange accent, creating a modern and energetic mood. This cover is best suited for corporate presentations, particularly those focused on strategy meetings or team collaborations."
+    },
+    {
+      "id": 67,
+      "file": "cover_67_title_subtitle.json",
+      "image": "cover_67.jpg",
+      "category": "title_subtitle",
+      "description": "The cover slide features a theme centered around collaboration and inclusivity, showcasing diverse professionals engaging with technology. The dominant colors are soft pastel shades with a warm orange accent, creating an inviting and optimistic mood. This background is best suited for presentations focused on corporate diversity initiatives, technology in accessibility, or team dynamics."
+    },
+    {
+      "id": 68,
+      "file": "cover_68_title_subtitle.json",
+      "image": "cover_68.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the slide is a collaborative business meeting focused on teamwork and technology. The dominant colors of soft pink and vibrant orange create a warm and engaging mood, conveying a sense of innovation and approachability. This cover is best suited for corporate presentations, team-building sessions, or discussions about digital transformation."
+    },
+    {
+      "id": 69,
+      "file": "cover_69_title_subtitle.json",
+      "image": "cover_69.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the slide is a modern appliance, suggesting a theme centered around home technology or innovation. The dominant colors are soft peach and white with an accent of bright orange, creating a fresh and energetic mood. This cover is best suited for presentations about modern home appliances, technology innovations, or marketing strategies in the consumer goods sector."
+    },
+    {
+      "id": 70,
+      "file": "cover_70_title_subtitle.json",
+      "image": "cover_70.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is the theme of technology and innovation, featuring a young boy with a prosthetic arm, symbolizing advancements in robotics and inclusivity. The dominant colors are soft pastels with an energetic orange accent, conveying a hopeful and modern mood. This cover slide is best suited for presentations focused on healthcare technology, innovation, or inclusive design initiatives."
+    },
+    {
+      "id": 71,
+      "file": "cover_71_title_subtitle.json",
+      "image": "cover_71.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a mother and child, highlighting themes of family and connection. The dominant colors are warm peach and orange tones, creating a friendly and inviting mood. This cover slide is best suited for presentations focused on family-oriented topics, parenting services, or community initiatives."
+    },
+    {
+      "id": 72,
+      "file": "cover_72_title_subtitle.json",
+      "image": "cover_72.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the cover slide is a collaborative business meeting, featuring professionals engaging with technology. The dominant colors include soft peach tones and a vibrant orange, creating a warm and inviting mood. This design is best suited for corporate presentations, particularly those focused on teamwork, innovation, or technology-driven projects."
+    },
+    {
+      "id": 73,
+      "file": "cover_73_title_subtitle.json",
+      "image": "cover_73.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the image is a collaborative business meeting, featuring two professionals engaging with technology. The dominant colors are soft peach and white, creating a modern and approachable mood. This cover is best suited for corporate presentations, particularly those related to teamwork, digital solutions, or innovative projects."
+    },
+    {
+      "id": 74,
+      "file": "cover_74_title_subtitle.json",
+      "image": "cover_74.jpg",
+      "category": "title_subtitle",
+      "description": "The main theme of the image is a confident, professional individual, suggesting a focus on personal growth and empowerment in a corporate context. The dominant colors are soft pastels with a gradient from warm pink to white, accentuated by bold orange elements, creating an optimistic and modern mood. This cover slide is best suited for corporate presentations aimed at leadership, innovation, or personal development topics."
+    },
+    {
+      "id": 75,
+      "file": "cover_75_title_subtitle.json",
+      "image": "cover_75.jpg",
+      "category": "title_subtitle",
+      "description": "The main subject of the slide is a delivery robot being operated by a person, highlighting a theme of innovation and technology in logistics. The dominant colors are soft pink and vibrant orange, creating a modern and energetic mood. This cover is best suited for presentations related to tech startups, delivery services, or discussions on automation and robotics in business."
+    }
+  ]
+}

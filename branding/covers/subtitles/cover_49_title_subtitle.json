@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "slide_number": 49,
+    "category": "title_subtitle",
+    "description": "Standard title with subtitle",
+    "extracted_text": "Presentation title can be 2 lines Presentation by Name Manually Bold\nMonth Year"
+  },
+  "slide": {
+    "title": "PwC Cover 49",
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    },
+    "components": [
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation title can be 2 lines",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 206,
+          "w": 594,
+          "h": 192,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Presentation by ",
+            "bold": false,
+            "font_size": 18
+          },
+          {
+            "text": "Name Manually Bold",
+            "bold": true,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 635,
+          "w": 491,
+          "h": 47,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "richtext",
+        "runs": [
+          {
+            "text": "Month Year",
+            "bold": false,
+            "font_size": 18
+          }
+        ],
+        "box": {
+          "x": 42,
+          "y": 635,
+          "w": 491,
+          "h": 47,
+          "unit": "px"
+        },
+        "style": {
+          "align": "left"
+        }
+      },
+      {
+        "type": "image",
+        "src": "images/cover_49_image_1.png",
+        "alt": "Cover image 49",
+        "box": {
+          "x": 42,
+          "y": 40,
+          "w": 111,
+          "h": 54,
+          "unit": "px"
+        },
+        "object_fit": "cover",
+        "image_metadata": {
+          "actual_width": 1108,
+          "actual_height": 540,
+          "content_type": "image/png"
+        }
+      }
+    ]
+  }
+}
